@@ -1,310 +1,62 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>My Octopress Blog</title>
-  <meta name="author" content="Mel Lain">
-
-  
-  <meta name="description" content="Introduction Octopress is a framework designed for Jekyll, the static
-blogging engine powering Github Pages. It allows somebody who
-knows next to &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://mellain.github.io/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<!-- MathJax -->
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-      }
-    });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-</script>
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<!-- MathJax finished -->
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">My Octopress Blog</a></h1>
-  
-    <h2>A blogging framework for hackers.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="mellain.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/07/05/my_post/">Octopress on Arch Linux: Caveats</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-07-05T19:20:00+00:00'><span class='date'><span class='date-month'>Jul</span> <span class='date-day'>5</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>7:20 pm</span></time>
-        
-           | <a href="/blog/2014/07/05/my_post/#disqus_thread"
-             data-disqus-identifier="http://mellain.github.io/blog/2014/07/05/my_post/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2 id="introduction">Introduction</h2>
-
-<p><a href="http://octopress.org/">Octopress</a> is a framework designed for <a href="http://jekyllrb.com/">Jekyll</a>, the static
-blogging engine powering <a href="https://pages.github.com/">Github Pages</a>. It allows somebody who
-knows next to nothing about HTML and CSS have a decent–looking blog
-in little time. However, certain git skills are required but no
-worries as there is helpful documentation with specific howtos.</p>
-
-<h2 id="adding-latex-support">Adding $\LaTeX$ support</h2>
-
-<p>Based on <a href="http://blog.zhengdong.me/2012/12/19/latex-math-in-octopress">this article</a> and <a href="http://docs.mathjax.org/en/latest/platforms/index.html">MathJax docs</a>.</p>
-
-<ol>
-  <li>Add the <code>gem kramdown</code> line (with appropriate versioning) to the
-<code>Gemfile</code>, then run <code>bundle install</code>.</li>
-  <li>Edit <code>_config.yml</code>, replace the <code>markdown: rdiscount</code> line with
-<code>markdown: kramdown</code>. The latter is a fast, pure-Ruby
-Markdown-superset converter.</li>
-  <li>Open <code>source/_includes/custom/head.html</code>, and add the following
-scripts to use MathJax.</li>
-</ol>
-
-<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
-<span class="line-number">2</span>
-<span class="line-number">3</span>
-<span class="line-number">4</span>
-<span class="line-number">5</span>
-<span class="line-number">6</span>
-<span class="line-number">7</span>
-<span class="line-number">8</span>
-<span class="line-number">9</span>
-<span class="line-number">10</span>
-<span class="line-number">11</span>
-<span class="line-number">12</span>
-<span class="line-number">13</span>
-<span class="line-number">14</span>
-<span class="line-number">15</span>
-<span class="line-number">16</span>
-<span class="line-number">17</span>
-<span class="line-number">18</span>
-<span class="line-number">19</span>
-<span class="line-number">20</span>
-<span class="line-number">21</span>
-<span class="line-number">22</span>
-<span class="line-number">23</span>
-<span class="line-number">24</span>
-<span class="line-number">25</span>
-<span class="line-number">26</span>
-<span class="line-number">27</span>
-<span class="line-number">28</span>
-<span class="line-number">29</span>
-<span class="line-number">30</span>
-</pre></td><td class="code"><pre><code class="javascript"><span class="line"><span class="c">&lt;!--</span> <span class="nx">MathJax</span> <span class="o">--&gt;</span>
-</span><span class="line"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&quot;text/x-mathjax-config&quot;</span><span class="o">&gt;</span>
-</span><span class="line">  <span class="nx">MathJax</span><span class="p">.</span><span class="nx">Hub</span><span class="p">.</span><span class="nx">Config</span><span class="p">({</span>
-</span><span class="line">    <span class="nx">tex2jax</span><span class="o">:</span> <span class="p">{</span>
-</span><span class="line">      <span class="nx">inlineMath</span><span class="o">:</span> <span class="p">[</span> <span class="p">[</span><span class="s1">&#39;$&#39;</span><span class="p">,</span><span class="s1">&#39;$&#39;</span><span class="p">],</span> <span class="p">[</span><span class="s2">&quot;\\(&quot;</span><span class="p">,</span><span class="s2">&quot;\\)&quot;</span><span class="p">]</span> <span class="p">],</span>
-</span><span class="line">      <span class="nx">processEscapes</span><span class="o">:</span> <span class="kc">true</span>
-</span><span class="line">    <span class="p">}</span>
-</span><span class="line">  <span class="p">});</span>
-</span><span class="line"><span class="o">&lt;</span><span class="err">/script&gt;</span>
-</span><span class="line">
-</span><span class="line"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&quot;text/x-mathjax-config&quot;</span><span class="o">&gt;</span>
-</span><span class="line">    <span class="nx">MathJax</span><span class="p">.</span><span class="nx">Hub</span><span class="p">.</span><span class="nx">Config</span><span class="p">({</span>
-</span><span class="line">      <span class="nx">tex2jax</span><span class="o">:</span> <span class="p">{</span>
-</span><span class="line">        <span class="nx">skipTags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;script&#39;</span><span class="p">,</span> <span class="s1">&#39;noscript&#39;</span><span class="p">,</span> <span class="s1">&#39;style&#39;</span><span class="p">,</span> <span class="s1">&#39;textarea&#39;</span><span class="p">,</span> <span class="s1">&#39;pre&#39;</span><span class="p">,</span> <span class="s1">&#39;code&#39;</span><span class="p">]</span>
-</span><span class="line">      <span class="p">}</span>
-</span><span class="line">    <span class="p">});</span>
-</span><span class="line"><span class="o">&lt;</span><span class="err">/script&gt;</span>
-</span><span class="line">
-</span><span class="line"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&quot;text/x-mathjax-config&quot;</span><span class="o">&gt;</span>
-</span><span class="line">    <span class="nx">MathJax</span><span class="p">.</span><span class="nx">Hub</span><span class="p">.</span><span class="nx">Queue</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-</span><span class="line">        <span class="kd">var</span> <span class="nx">all</span> <span class="o">=</span> <span class="nx">MathJax</span><span class="p">.</span><span class="nx">Hub</span><span class="p">.</span><span class="nx">getAllJax</span><span class="p">(),</span> <span class="nx">i</span><span class="p">;</span>
-</span><span class="line">        <span class="k">for</span><span class="p">(</span><span class="nx">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">all</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
-</span><span class="line">            <span class="nx">all</span><span class="p">[</span><span class="nx">i</span><span class="p">].</span><span class="nx">SourceElement</span><span class="p">().</span><span class="nx">parentNode</span><span class="p">.</span><span class="nx">className</span> <span class="o">+=</span> <span class="s1">&#39; has-jax&#39;</span><span class="p">;</span>
-</span><span class="line">        <span class="p">}</span>
-</span><span class="line">    <span class="p">});</span>
-</span><span class="line"><span class="o">&lt;</span><span class="err">/script&gt;</span>
-</span><span class="line">
-</span><span class="line"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&quot;text/javascript&quot;</span>
-</span><span class="line">   <span class="nx">src</span><span class="o">=</span><span class="s2">&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;</span><span class="o">&gt;&lt;</span><span class="err">/script&gt;</span>
-</span><span class="line"><span class="c">&lt;!--</span> <span class="nx">MathJax</span> <span class="nx">finished</span> <span class="o">--&gt;</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div>
-
-<p>You should now be all set. However, if you do <code>rake preview</code> while
-offline, you will not have your $\LaTeX$ rendered nicely. Currently I
-do not know how to setup offline $\LaTeX$ rendering.</p>
-
-<h2 id="running-google-analytics">Running Google Analytics</h2>
-<p>To enable this evil beast in your blog, add your tracking ID into <code>_config.yml</code>
-and insert the following lines into <code>source/_includes/google_analytics.html</code></p>
-
-<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
-<span class="line-number">2</span>
-<span class="line-number">3</span>
-</pre></td><td class="code"><pre><code class="javascript"><span class="line"><span class="nx">_gaq</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="s1">&#39;_setAccount&#39;</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">]);</span>
-</span><span class="line"><span class="nx">_gaq</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="s1">&#39;_setDomainName&#39;</span><span class="p">,</span><span class="s1">&#39;username.github.io&#39;</span><span class="p">]);</span>
-</span><span class="line"><span class="nx">_gaq</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="s1">&#39;_trackPageview&#39;</span><span class="p">]);</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div>
-
-<p>where instead of <code>username.github.io</code> you need to insert your domain name.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>That is it for now, if I get into more trouble, I will update this
-post. By the way, if you find the official Jekyll documentation hard
-to understand, here is an <a href="http://jekyllbootstrap.com/lessons/jekyll-introduction.html">alternative source</a>.</p>
-
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2014/07/05/my_post/">Octopress on Arch Linux: Caveats</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Mel Lain -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'httpmellaingithubio';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
+<html>
+    <head>
+        <title>Gephi: JavaScript GEXF Viewer</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="styles/gexfjs.css" />
+        <link rel="stylesheet" type="text/css" href="styles/jquery-ui.css" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+        // Fallback in case JQuery CDN isn't available
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript type='text/javascript' src='js/jquery-1.7.2.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+        <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="js/gexfjs.js"></script>
+        <script type="text/javascript" src="config.js"></script>
+    </head>
+    <body>
+        <div id="zonecentre" class="gradient">
+            <canvas id="carte" width="0" height="0"></canvas>
+            <ul id="ctlzoom">
+                <li>
+                    <a href="#" id="zoomPlusButton" title="S'approcher"> </a>
+                </li>
+                <li id="zoomSliderzone">
+                    <div id="zoomSlider"></div>
+                </li>
+                <li>
+                    <a href="#" id="zoomMinusButton" title="S'éloigner"> </a>
+                </li>
+                <li>
+                    <a href="#" id="lensButton"> </a>
+                </li>
+                <li>
+                    <a href="#" id="edgesButton"> </a>
+                </li>
+            </ul>
+        </div>
+        <div id="overviewzone" class="gradient">
+            <canvas id="overview" width="0" height="0"></canvas>
+        </div>
+        <div id="leftcolumn">
+            <div id="unfold">
+                <a href="#" id="aUnfold" class="rightarrow"> </a>
+            </div>
+            <div id="leftcontent"></div>
+        </div>
+        <div id="titlebar">
+            <div id="maintitle">
+                <h1><a href="http://gephi.org/" target="_blank" title="Made with Gephi">Gephi: JavaScript GEXF Viewer</a></h1>
+            </div>
+            <form id="recherche">
+                <input id="searchinput" class="grey" autocomplete="off" />
+                <input id="searchsubmit" type="submit" />
+            </form>
+        </div>
+        <ul id="autocomplete">
+        </ul>
+    </body>
 </html>
