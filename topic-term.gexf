@@ -5336,7 +5336,7 @@
           <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-429.965" y="-274.47507" z="0.0"></viz:position>
+        <viz:position x="-318.7472" y="-199.07318" z="0.0"></viz:position>
         <viz:color r="186" g="254" b="100"></viz:color>
       </node>
       <node id="751" label="War in Afganistan, Pakistan">
@@ -5344,7 +5344,7 @@
           <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="243.0639" y="-443.71298" z="0.0"></viz:position>
+        <viz:position x="213.84561" y="-370.6672" z="0.0"></viz:position>
         <viz:color r="100" g="254" b="124"></viz:color>
       </node>
       <node id="752" label="Turkey">
@@ -5352,7 +5352,7 @@
           <attvalue for="modularity_class" value="12"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-516.1385" y="-48.670235" z="0.0"></viz:position>
+        <viz:position x="-399.26553" y="-26.049667" z="0.0"></viz:position>
         <viz:color r="112" g="254" b="100"></viz:color>
       </node>
       <node id="753" label="American wars with islamists">
@@ -5360,7 +5360,7 @@
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="322.95096" y="-352.10526" z="0.0"></viz:position>
+        <viz:position x="276.68863" y="-291.2338" z="0.0"></viz:position>
         <viz:color r="186" g="100" b="254"></viz:color>
       </node>
       <node id="754" label="Conferences and visits">
@@ -5368,7 +5368,7 @@
           <attvalue for="modularity_class" value="13"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="14.601805" y="-479.58484" z="0.0"></viz:position>
+        <viz:position x="9.732088" y="-367.58133" z="0.0"></viz:position>
         <viz:color r="254" g="100" b="137"></viz:color>
       </node>
       <node id="755" label="China">
@@ -5376,7 +5376,7 @@
           <attvalue for="modularity_class" value="14"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="470.32834" y="-160.72444" z="0.0"></viz:position>
+        <viz:position x="372.934" y="-136.37585" z="0.0"></viz:position>
         <viz:color r="100" g="254" b="161"></viz:color>
       </node>
       <node id="756" label="General topic 1">
@@ -5384,7 +5384,7 @@
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="439.64172" y="-296.65253" z="0.0"></viz:position>
+        <viz:position x="366.59598" y="-230.91136" z="0.0"></viz:position>
         <viz:color r="112" g="100" b="254"></viz:color>
       </node>
       <node id="757" label="General topic 2">
@@ -5392,7 +5392,7 @@
           <attvalue for="modularity_class" value="15"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="472.16006" y="-19.640759" z="0.0"></viz:position>
+        <viz:position x="369.89603" y="-29.380192" z="0.0"></viz:position>
         <viz:color r="149" g="254" b="100"></viz:color>
       </node>
       <node id="758" label="Afganistan and Taliban">
@@ -5400,7 +5400,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="451.60223" y="225.5636" z="0.0"></viz:position>
+        <viz:position x="412.6445" y="198.78017" z="0.0"></viz:position>
         <viz:color r="254" g="248" b="100"></viz:color>
       </node>
       <node id="759" label="Lybia and Egypt">
@@ -5408,7 +5408,7 @@
           <attvalue for="modularity_class" value="16"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="63.189987" y="433.16144" z="0.0"></viz:position>
+        <viz:position x="44.33951" y="350.21936" z="0.0"></viz:position>
         <viz:color r="254" g="174" b="100"></viz:color>
       </node>
       <node id="760" label="Brazil">
@@ -5416,7 +5416,7 @@
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-169.68971" y="438.22455" z="0.0"></viz:position>
+        <viz:position x="-133.87381" y="355.28247" z="0.0"></viz:position>
         <viz:color r="149" g="100" b="254"></viz:color>
       </node>
       <node id="761" label="Honduras">
@@ -5424,7 +5424,7 @@
           <attvalue for="modularity_class" value="17"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-218.04402" y="-448.3543" z="0.0"></viz:position>
+        <viz:position x="-169.34686" y="-329.04623" z="0.0"></viz:position>
         <viz:color r="254" g="100" b="211"></viz:color>
       </node>
       <node id="762" label="President and government">
@@ -5432,7 +5432,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-511.24265" y="-177.63565" z="0.0"></viz:position>
+        <viz:position x="-401.9099" y="-130.50946" z="0.0"></viz:position>
         <viz:color r="100" g="236" b="254"></viz:color>
       </node>
       <node id="763" label="Diplomatic relations">
@@ -5440,7 +5440,7 @@
           <attvalue for="modularity_class" value="18"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-510.44586" y="86.20298" z="0.0"></viz:position>
+        <viz:position x="-376.6075" y="71.1226" z="0.0"></viz:position>
         <viz:color r="223" g="254" b="100"></viz:color>
       </node>
       <node id="764" label="War in Iraq">
@@ -5448,7 +5448,7 @@
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="177.80995" y="477.58618" z="0.0"></viz:position>
+        <viz:position x="158.33109" y="392.36612" z="0.0"></viz:position>
         <viz:color r="223" g="100" b="254"></viz:color>
       </node>
       <node id="765" label="Earthquake in Haiti">
@@ -5456,7 +5456,7 @@
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="495.2804" y="121.01777" z="0.0"></viz:position>
+        <viz:position x="388.14664" y="89.36461" z="0.0"></viz:position>
         <viz:color r="100" g="254" b="199"></viz:color>
       </node>
       <node id="766" label="Rights of women">
@@ -5464,7 +5464,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="281.57227" y="413.47165" z="0.0"></viz:position>
+        <viz:position x="228.00539" y="320.94702" z="0.0"></viz:position>
         <viz:color r="254" g="211" b="100"></viz:color>
       </node>
       <node id="767" label="United Kingdom">
@@ -5472,7 +5472,7 @@
           <attvalue for="modularity_class" value="19"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-103.6389" y="-421.72302" z="0.0"></viz:position>
+        <viz:position x="-93.89946" y="-370.59097" z="0.0"></viz:position>
         <viz:color r="100" g="199" b="254"></viz:color>
       </node>
       <node id="768" label="General Topic 3">
@@ -5480,7 +5480,7 @@
           <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-286.40866" y="388.82883" z="0.0"></viz:position>
+        <viz:position x="-229.85725" y="315.312" z="0.0"></viz:position>
         <viz:color r="254" g="100" b="100"></viz:color>
       </node>
       <node id="769" label="Israel and Palestina">
@@ -5488,7 +5488,7 @@
           <attvalue for="modularity_class" value="20"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="347.28308" y="272.5335" z="0.0"></viz:position>
+        <viz:position x="310.7602" y="262.7941" z="0.0"></viz:position>
         <viz:color r="254" g="100" b="248"></viz:color>
       </node>
       <node id="770" label="Greece">
@@ -5496,7 +5496,7 @@
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-458.32385" y="194.77876" z="0.0"></viz:position>
+        <viz:position x="-371.61166" y="162.73296" z="0.0"></viz:position>
         <viz:color r="100" g="161" b="254"></viz:color>
       </node>
       <node id="771" label="Lauren Jiloty">
@@ -5504,7 +5504,7 @@
           <attvalue for="modularity_class" value="21"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-329.58945" y="-355.80197" z="0.0"></viz:position>
+        <viz:position x="-267.3829" y="-282.28513" z="0.0"></viz:position>
         <viz:color r="254" g="137" b="100"></viz:color>
       </node>
       <node id="772" label="Senate">
@@ -5512,7 +5512,7 @@
           <attvalue for="modularity_class" value="22"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="140.50905" y="-458.1806" z="0.0"></viz:position>
+        <viz:position x="113.72561" y="-375.39542" z="0.0"></viz:position>
         <viz:color r="100" g="254" b="236"></viz:color>
       </node>
       <node id="773" label="Iran nuclear program">
@@ -5520,7 +5520,7 @@
           <attvalue for="modularity_class" value="23"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-362.1138" y="269.61142" z="0.0"></viz:position>
+        <viz:position x="-275.4016" y="218.71513" z="0.0"></viz:position>
         <viz:color r="254" g="100" b="174"></viz:color>
       </node>
       <node id="774" label="Lona Valmoro">
@@ -5528,7 +5528,7 @@
           <attvalue for="modularity_class" value="24"></attvalue>
         </attvalues>
         <viz:size value="15.0"></viz:size>
-        <viz:position x="-48.00575" y="511.81647" z="0.0"></viz:position>
+        <viz:position x="-42.350605" y="406.17523" z="0.0"></viz:position>
         <viz:color r="100" g="124" b="254"></viz:color>
       </node>
     </nodes>
