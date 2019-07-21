@@ -43,14 +43,6 @@
         <viz:position x="145.54256" y="-1060.5454"></viz:position>
         <viz:color r="53" g="230" b="255"></viz:color>
       </node>
-      <node id="5004" label="doc_5004_погружной_блендер_bamix_mono">
-        <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="15942.779" y="22804.926"></viz:position>
-        <viz:color r="163" g="135" b="181"></viz:color>
-      </node>
       <node id="5005" label="doc_5005_пылесос_karcher_sv">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -98,14 +90,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="324.1689" y="30.0846"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
-      </node>
-      <node id="5011" label="doc_5011_стиральный_машина_beko_wre_bss">
-        <attvalues>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21014.37" y="-9250.883"></viz:position>
-        <viz:color r="95" g="111" b="0"></viz:color>
       </node>
       <node id="5012" label="doc_5012_чайник_midea_mk">
         <attvalues>
@@ -322,14 +306,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-88.738" y="949.74475"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="5039" label="doc_5039_погружной_блендер_ладомир_ва">
-        <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22405.684" y="-6750.2773"></viz:position>
-        <viz:color r="0" g="162" b="58"></viz:color>
       </node>
       <node id="5040" label="doc_5040_триммер_moser_spotlight">
         <attvalues>
@@ -931,14 +907,6 @@
         <viz:position x="2270.648" y="-331.44507"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
       </node>
-      <node id="5115" label="doc_5115_микроволновый_печь_samsung_mg_tcw">
-        <attvalues>
-          <attvalue for="modularity_class" value="3"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20929.283" y="-7224.1846"></viz:position>
-        <viz:color r="0" g="77" b="125"></viz:color>
-      </node>
       <node id="5116" label="doc_5116_проточный_водонагреватель_oasis_glass_rg">
         <attvalues>
           <attvalue for="modularity_class" value="306"></attvalue>
@@ -1539,14 +1507,6 @@
         <viz:position x="3290.8992" y="892.753"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
       </node>
-      <node id="5191" label="doc_5191_портативный_блендер_take_it">
-        <attvalues>
-          <attvalue for="modularity_class" value="4"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="13206.282" y="22668.002"></viz:position>
-        <viz:color r="161" g="106" b="15"></viz:color>
-      </node>
       <node id="5192" label="doc_5192_духовой_шкаф_maunfeld_eoec">
         <attvalues>
           <attvalue for="modularity_class" value="275"></attvalue>
@@ -1674,14 +1634,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1176.401" y="-2511.4104"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="5208" label="doc_5208_кофеварка_рожковый_nuova_simonelli_oscar">
-        <attvalues>
-          <attvalue for="modularity_class" value="5"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-4606.787" y="22346.436"></viz:position>
-        <viz:color r="255" g="119" b="124"></viz:color>
       </node>
       <node id="5209" label="doc_5209_микроволновый_печь_scarlett_sc_mw">
         <attvalues>
@@ -1914,14 +1866,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1515.3895" y="-1773.4318"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
-      </node>
-      <node id="5238" label="doc_5238_накопительный_водонагреватель_stiebel_eltron_shz_lcd">
-        <attvalues>
-          <attvalue for="modularity_class" value="6"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22529.883" y="16062.192"></viz:position>
-        <viz:color r="255" g="165" b="255"></viz:color>
       </node>
       <node id="5239" label="doc_5239_телевизор_erisson_lea_smart">
         <attvalues>
@@ -2266,14 +2210,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1374.9661" y="-1688.1058"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="5282" label="doc_5282_пылесос_avs_turbo">
-        <attvalues>
-          <attvalue for="modularity_class" value="7"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21279.277" y="14942.13"></viz:position>
-        <viz:color r="236" g="113" b="19"></viz:color>
       </node>
       <node id="5283" label="doc_5283_духовой_шкаф_cata_me_tcp">
         <attvalues>
@@ -2643,14 +2579,6 @@
         <viz:position x="-1027.596" y="2724.6924"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
       </node>
-      <node id="5329" label="doc_5329_виниловый_проигрыватель_pro_ject_rpm_genie">
-        <attvalues>
-          <attvalue for="modularity_class" value="8"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="8157.826" y="22457.004"></viz:position>
-        <viz:color r="28" g="46" b="5"></viz:color>
-      </node>
       <node id="5330" label="doc_5330_духовой_шкаф_bosch_hbf_bw">
         <attvalues>
           <attvalue for="modularity_class" value="289"></attvalue>
@@ -2714,14 +2642,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-840.80975" y="2954.8772"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
-      </node>
-      <node id="5338" label="doc_5338_щипцы_bbk_bst">
-        <attvalues>
-          <attvalue for="modularity_class" value="9"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="17497.162" y="21399.404"></viz:position>
-        <viz:color r="0" g="74" b="97"></viz:color>
       </node>
       <node id="5339" label="doc_5339_сплит_система_scoole_sc_ac_pro">
         <attvalues>
@@ -3387,22 +3307,6 @@
         <viz:position x="1207.299" y="1703.1006"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="5422" label="doc_5422_микроволновый_печь_zanussi_zfm_sa">
-        <attvalues>
-          <attvalue for="modularity_class" value="10"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-7682.356" y="22441.207"></viz:position>
-        <viz:color r="255" g="151" b="185"></viz:color>
-      </node>
-      <node id="5423" label="doc_5423_медиаплеер_invin_pro">
-        <attvalues>
-          <attvalue for="modularity_class" value="11"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-164.14496" y="23624.418"></viz:position>
-        <viz:color r="0" g="192" b="173"></viz:color>
-      </node>
       <node id="5424" label="doc_5424_стиральный_машина_candy_cs_db">
         <attvalues>
           <attvalue for="modularity_class" value="288"></attvalue>
@@ -3451,14 +3355,6 @@
         <viz:position x="540.50555" y="580.209"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
       </node>
-      <node id="5430" label="doc_5430_микроволновый_печь_sharp_rk">
-        <attvalues>
-          <attvalue for="modularity_class" value="12"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21173.438" y="-20647.52"></viz:position>
-        <viz:color r="107" g="132" b="0"></viz:color>
-      </node>
       <node id="5431" label="doc_5431_варочный_панель_beko_hizg">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -3482,14 +3378,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="89.07218" y="709.1327"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="5434" label="doc_5434_духовой_шкаф_darina_bde_at">
-        <attvalues>
-          <attvalue for="modularity_class" value="13"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21150.852" y="-12219.193"></viz:position>
-        <viz:color r="104" g="223" b="255"></viz:color>
       </node>
       <node id="5435" label="doc_5435_стиральный_машина_hoover_dwft_ah">
         <attvalues>
@@ -3602,14 +3490,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1224.378" y="-2862.601"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="5449" label="doc_5449_микроволновый_печь_starwind_smw">
-        <attvalues>
-          <attvalue for="modularity_class" value="14"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-13406.831" y="-21214.8"></viz:position>
-        <viz:color r="0" g="174" b="255"></viz:color>
       </node>
       <node id="5450" label="doc_5450_проточный_водонагреватель_edisson_flame_gd_костер">
         <attvalues>
@@ -3866,14 +3746,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="873.3421" y="-1922.0635"></viz:position>
         <viz:color r="0" g="158" b="230"></viz:color>
-      </node>
-      <node id="5482" label="doc_5482_кофеварка_gemlux_gl_cm">
-        <attvalues>
-          <attvalue for="modularity_class" value="15"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21415.535" y="-17719.527"></viz:position>
-        <viz:color r="52" g="250" b="200"></viz:color>
       </node>
       <node id="5483" label="doc_5483_стиральный_машина_samsung_ww_hw">
         <attvalues>
@@ -4371,14 +4243,6 @@
         <viz:position x="-1259.7756" y="692.575"></viz:position>
         <viz:color r="255" g="59" b="9"></viz:color>
       </node>
-      <node id="5545" label="doc_5545_пылесос_heyner_cyclonicpower">
-        <attvalues>
-          <attvalue for="modularity_class" value="16"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="6945.211" y="22416.52"></viz:position>
-        <viz:color r="255" g="200" b="116"></viz:color>
-      </node>
       <node id="5546" label="doc_5546_сплит_система_hisense_as_hr_svnnk">
         <attvalues>
           <attvalue for="modularity_class" value="278"></attvalue>
@@ -4723,14 +4587,6 @@
         <viz:position x="-1376.8135" y="-408.96082"></viz:position>
         <viz:color r="0" g="214" b="255"></viz:color>
       </node>
-      <node id="5589" label="doc_5589_расческа_выпрямитель_galaxy_gl">
-        <attvalues>
-          <attvalue for="modularity_class" value="17"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21360.777" y="-16457.941"></viz:position>
-        <viz:color r="163" g="179" b="90"></viz:color>
-      </node>
       <node id="5590" label="doc_5590_акустический_система_vector_hx">
         <attvalues>
           <attvalue for="modularity_class" value="294"></attvalue>
@@ -5051,14 +4907,6 @@
         <viz:position x="3101.1506" y="1341.2817"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
       </node>
-      <node id="5630" label="doc_5630_сплит_система_pioneer_kfr_mw_kor_mw">
-        <attvalues>
-          <attvalue for="modularity_class" value="18"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22479.514" y="-8552.033"></viz:position>
-        <viz:color r="234" g="219" b="19"></viz:color>
-      </node>
       <node id="5631" label="doc_5631_кофеварка_melitta_look_therm_timer">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -5130,14 +4978,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2850.4062" y="-1786.9573"></viz:position>
         <viz:color r="0" g="84" b="51"></viz:color>
-      </node>
-      <node id="5640" label="doc_5640_стиральный_машина_фея_смп">
-        <attvalues>
-          <attvalue for="modularity_class" value="19"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="333.68063" y="-20794.553"></viz:position>
-        <viz:color r="0" g="170" b="223"></viz:color>
       </node>
       <node id="5641" label="doc_5641_электробритва_vitesse_vs">
         <attvalues>
@@ -5226,14 +5066,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2250.617" y="-1976.2845"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
-      </node>
-      <node id="5652" label="doc_5652_встраивать_холодильник_kuppersberg_krb">
-        <attvalues>
-          <attvalue for="modularity_class" value="20"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="20487.484" y="21917.773"></viz:position>
-        <viz:color r="255" g="209" b="175"></viz:color>
       </node>
       <node id="5653" label="doc_5653_пылесос_arnica_tesla_premium">
         <attvalues>
@@ -5354,14 +5186,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="2969.472" y="865.7754"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
-      </node>
-      <node id="5668" label="doc_5668_стиральный_машина_candy_bianca_bwm_ph">
-        <attvalues>
-          <attvalue for="modularity_class" value="21"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21389.844" y="-17012.402"></viz:position>
-        <viz:color r="94" g="104" b="117"></viz:color>
       </node>
       <node id="5669" label="doc_5669_щипцы_ga_ma_urban_urb">
         <attvalues>
@@ -5987,14 +5811,6 @@
         <viz:position x="980.4512" y="-2775.79"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
       </node>
-      <node id="5747" label="doc_5747_погружной_блендер_breville">
-        <attvalues>
-          <attvalue for="modularity_class" value="22"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22773.848" y="-15339.608"></viz:position>
-        <viz:color r="198" g="120" b="255"></viz:color>
-      </node>
       <node id="5748" label="doc_5748_щипцы_centek_ct">
         <attvalues>
           <attvalue for="modularity_class" value="307"></attvalue>
@@ -6155,14 +5971,6 @@
         <viz:position x="783.7636" y="2881.2708"></viz:position>
         <viz:color r="148" g="112" b="0"></viz:color>
       </node>
-      <node id="5768" label="doc_5768_моноблок_general_climate_gcw_hr">
-        <attvalues>
-          <attvalue for="modularity_class" value="23"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20950.596" y="7861.596"></viz:position>
-        <viz:color r="68" g="220" b="0"></viz:color>
-      </node>
       <node id="5769" label="doc_5769_фен_xiaomi_smat_hair_dryer">
         <attvalues>
           <attvalue for="modularity_class" value="274"></attvalue>
@@ -6210,14 +6018,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-108.84633" y="3221.4531"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
-      </node>
-      <node id="5775" label="doc_5775_щипцы_remington_cb">
-        <attvalues>
-          <attvalue for="modularity_class" value="24"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22906.064" y="-951.6793"></viz:position>
-        <viz:color r="64" g="50" b="104"></viz:color>
       </node>
       <node id="5776" label="doc_5776_фотоэпилятор_hee_hr_mini">
         <attvalues>
@@ -6402,14 +6202,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1418.9026" y="-103.95555"></viz:position>
         <viz:color r="38" g="174" b="140"></viz:color>
-      </node>
-      <node id="5799" label="doc_5799_варочный_панель_fornelli_pia_luce">
-        <attvalues>
-          <attvalue for="modularity_class" value="25"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9606.382" y="22524.24"></viz:position>
-        <viz:color r="255" g="151" b="255"></viz:color>
       </node>
       <node id="5800" label="doc_5800_телевизор_hyundai_led_ss">
         <attvalues>
@@ -7459,14 +7251,6 @@
         <viz:position x="2591.027" y="-290.10452"></viz:position>
         <viz:color r="239" g="0" b="97"></viz:color>
       </node>
-      <node id="5931" label="doc_5931_погружной_блендер_oursson_hb">
-        <attvalues>
-          <attvalue for="modularity_class" value="26"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9813.059" y="-21039.227"></viz:position>
-        <viz:color r="255" g="176" b="0"></viz:color>
-      </node>
       <node id="5932" label="doc_5932_накопительный_водонагреватель_timberk_swh_fs_ve">
         <attvalues>
           <attvalue for="modularity_class" value="306"></attvalue>
@@ -7626,14 +7410,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="186.87741" y="1542.3855"></viz:position>
         <viz:color r="235" g="130" b="97"></viz:color>
-      </node>
-      <node id="5952" label="doc_5952_стационарный_блендер_hamilton_beach_hbh_се">
-        <attvalues>
-          <attvalue for="modularity_class" value="27"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="804.9726" y="-21833.984"></viz:position>
-        <viz:color r="0" g="214" b="255"></viz:color>
       </node>
       <node id="5953" label="doc_5953_чайник_philips_hd_avance_collection">
         <attvalues>
@@ -8243,14 +8019,6 @@
         <viz:position x="282.8724" y="-4.8557577"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
       </node>
-      <node id="4029" label="doc_4029_холодильник_smeg_fab_rbl">
-        <attvalues>
-          <attvalue for="modularity_class" value="28"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="3705.0815" y="-20832.316"></viz:position>
-        <viz:color r="255" g="173" b="255"></viz:color>
-      </node>
       <node id="4030" label="doc_4030_утюг_maxwell_mw">
         <attvalues>
           <attvalue for="modularity_class" value="303"></attvalue>
@@ -8386,14 +8154,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2219.139" y="865.5095"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
-      </node>
-      <node id="4047" label="doc_4047_твердотопливный_котел_stropuva_mini">
-        <attvalues>
-          <attvalue for="modularity_class" value="29"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="21103.445" y="17696.375"></viz:position>
-        <viz:color r="255" g="66" b="142"></viz:color>
       </node>
       <node id="4048" label="doc_4048_плита_gorenje_ec_inb">
         <attvalues>
@@ -8570,14 +8330,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1550.9742" y="-1841.1898"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="4070" label="doc_4070_стационарный_блендер_philips_hr_viva_collection">
-        <attvalues>
-          <attvalue for="modularity_class" value="30"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21351.549" y="16385.086"></viz:position>
-        <viz:color r="189" g="214" b="255"></viz:color>
       </node>
       <node id="4071" label="doc_4071_накопительный_водонагреватель_timberk_swh_fs_me">
         <attvalues>
@@ -8786,14 +8538,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-638.94116" y="-52.722378"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
-      </node>
-      <node id="4097" label="doc_4097_плита_iplate_at">
-        <attvalues>
-          <attvalue for="modularity_class" value="31"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20723.342" y="-21574.336"></viz:position>
-        <viz:color r="134" g="88" b="54"></viz:color>
       </node>
       <node id="4098" label="doc_4098_каминный_вытяжка_dach_simona_white">
         <attvalues>
@@ -9091,14 +8835,6 @@
         <viz:position x="587.9896" y="342.6989"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
       </node>
-      <node id="4135" label="doc_4135_каминный_вытяжка_elikor_классика_вента_белый_пп">
-        <attvalues>
-          <attvalue for="modularity_class" value="32"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-8035.837" y="22450.527"></viz:position>
-        <viz:color r="101" g="141" b="103"></viz:color>
-      </node>
       <node id="4136" label="doc_4136_каминный_вытяжка_hansa_okc_gbh">
         <attvalues>
           <attvalue for="modularity_class" value="290"></attvalue>
@@ -9122,14 +8858,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-694.14996" y="671.0392"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
-      </node>
-      <node id="4139" label="doc_4139_стационарный_блендер_tribest_soyabella_sb">
-        <attvalues>
-          <attvalue for="modularity_class" value="33"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20828.201" y="-3694.6433"></viz:position>
-        <viz:color r="87" g="27" b="19"></viz:color>
       </node>
       <node id="4140" label="doc_4140_кофеварка_рожковый_briel_es_black">
         <attvalues>
@@ -9242,14 +8970,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-803.55316" y="2866.3438"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
-      </node>
-      <node id="4154" label="doc_4154_погружной_блендер_braun_mq_wh_puree">
-        <attvalues>
-          <attvalue for="modularity_class" value="34"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10965.807" y="22567.896"></viz:position>
-        <viz:color r="206" g="88" b="136"></viz:color>
       </node>
       <node id="4155" label="doc_4155_напольный_вентилятор_xiaomi_mijia_dc_inverter">
         <attvalues>
@@ -9594,14 +9314,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="2737.1035" y="829.772"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
-      </node>
-      <node id="4198" label="doc_4198_пылесос_arnica_terra_blu">
-        <attvalues>
-          <attvalue for="modularity_class" value="35"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="174.59714" y="-20784.182"></viz:position>
-        <viz:color r="198" g="120" b="218"></viz:color>
       </node>
       <node id="4199" label="doc_4199_сплит_система_samsung_ar_rsfhmwqner">
         <attvalues>
@@ -10075,14 +9787,6 @@
         <viz:position x="-991.46906" y="2967.0952"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
       </node>
-      <node id="4258" label="doc_4258_холодильник_bosch_kgv_xl_ar">
-        <attvalues>
-          <attvalue for="modularity_class" value="36"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20995.455" y="8601.658"></viz:position>
-        <viz:color r="166" g="158" b="0"></viz:color>
-      </node>
       <node id="4259" label="doc_4259_встраивать_вытяжка_elica_eliplane_lx_ix">
         <attvalues>
           <attvalue for="modularity_class" value="290"></attvalue>
@@ -10403,14 +10107,6 @@
         <viz:position x="-724.5836" y="-4125.9404"></viz:position>
         <viz:color r="217" g="222" b="217"></viz:color>
       </node>
-      <node id="4299" label="doc_4299_электрический_котел_эван_эпо">
-        <attvalues>
-          <attvalue for="modularity_class" value="37"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-13560.06" y="-21222.322"></viz:position>
-        <viz:color r="216" g="137" b="0"></viz:color>
-      </node>
       <node id="4300" label="doc_4300_холодильник_artel_hd_rn_ix">
         <attvalues>
           <attvalue for="modularity_class" value="274"></attvalue>
@@ -10538,22 +10234,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="750.05035" y="640.032"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="4316" label="doc_4316_настольный_вентилятор_ves_vd">
-        <attvalues>
-          <attvalue for="modularity_class" value="38"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22339.953" y="4321.2656"></viz:position>
-        <viz:color r="0" g="255" b="209"></viz:color>
-      </node>
-      <node id="4317" label="doc_4317_робот_пылесос_ecovacs_deebot_ozmo">
-        <attvalues>
-          <attvalue for="modularity_class" value="39"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="3407.9316" y="-20831.338"></viz:position>
-        <viz:color r="255" g="100" b="0"></viz:color>
       </node>
       <node id="4318" label="doc_4318_машинка_стрижка_wahl">
         <attvalues>
@@ -10923,14 +10603,6 @@
         <viz:position x="-1495.8107" y="713.04645"></viz:position>
         <viz:color r="255" g="59" b="9"></viz:color>
       </node>
-      <node id="4364" label="doc_4364_духовой_шкаф_beko_bim_wcs">
-        <attvalues>
-          <attvalue for="modularity_class" value="40"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="496.9047" y="-20876.043"></viz:position>
-        <viz:color r="171" g="211" b="65"></viz:color>
-      </node>
       <node id="4365" label="doc_4365_чайник_zigmund_shtain_ke_sd_sd">
         <attvalues>
           <attvalue for="modularity_class" value="276"></attvalue>
@@ -11131,14 +10803,6 @@
         <viz:position x="3481.7698" y="741.6496"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
       </node>
-      <node id="4390" label="doc_4390_морозильник_hiberg_vfr_nfx">
-        <attvalues>
-          <attvalue for="modularity_class" value="41"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="21174.924" y="-17695.223"></viz:position>
-        <viz:color r="255" g="0" b="193"></viz:color>
-      </node>
       <node id="4391" label="doc_4391_чайник_великий_река_кипа">
         <attvalues>
           <attvalue for="modularity_class" value="276"></attvalue>
@@ -11146,14 +10810,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2497.6514" y="-225.08015"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
-      </node>
-      <node id="4392" label="doc_4392_посудомоечный_машина_whirlpool_adp_ix">
-        <attvalues>
-          <attvalue for="modularity_class" value="42"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18720.508" y="-20375.578"></viz:position>
-        <viz:color r="244" g="219" b="136"></viz:color>
       </node>
       <node id="4393" label="doc_4393_каминный_вытяжка_elikor_kitchen_vg_bb">
         <attvalues>
@@ -11251,14 +10907,6 @@
         <viz:position x="321.17993" y="790.0323"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="4405" label="doc_4405_посудомоечный_машина_siemens_sr_mr">
-        <attvalues>
-          <attvalue for="modularity_class" value="43"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21057.957" y="10336.814"></viz:position>
-        <viz:color r="106" g="161" b="255"></viz:color>
-      </node>
       <node id="4406" label="doc_4406_духовой_шкаф_maunfeld_ceof">
         <attvalues>
           <attvalue for="modularity_class" value="289"></attvalue>
@@ -11298,14 +10946,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1096.0562" y="1847.288"></viz:position>
         <viz:color r="255" g="185" b="255"></viz:color>
-      </node>
-      <node id="4411" label="doc_4411_сплит_система_rover_rs_ds_be">
-        <attvalues>
-          <attvalue for="modularity_class" value="44"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="3084.4583" y="22896.48"></viz:position>
-        <viz:color r="255" g="97" b="150"></viz:color>
       </node>
       <node id="4412" label="doc_4412_сплит_система_mitsubishi_heavy_industries_srk_zjx_src_zjx">
         <attvalues>
@@ -12083,14 +11723,6 @@
         <viz:position x="620.9404" y="-999.7594"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="4509" label="doc_4509_холодильник_gorenje_nrk_cbk">
-        <attvalues>
-          <attvalue for="modularity_class" value="45"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="5654.5747" y="22373.51"></viz:position>
-        <viz:color r="255" g="137" b="137"></viz:color>
-      </node>
       <node id="4510" label="doc_4510_накопительный_водонагреватель_ariston_abs_pro_eco_pw">
         <attvalues>
           <attvalue for="modularity_class" value="306"></attvalue>
@@ -12130,14 +11762,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2463.7803" y="-304.55484"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
-      </node>
-      <node id="4515" label="doc_4515_холодильник_liebherr_cnkw">
-        <attvalues>
-          <attvalue for="modularity_class" value="46"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22720.256" y="-14155.388"></viz:position>
-        <viz:color r="118" g="176" b="0"></viz:color>
       </node>
       <node id="4516" label="doc_4516_напольный_вентилятор_scarlett_sc">
         <attvalues>
@@ -12426,14 +12050,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="441.9183" y="1265.0956"></viz:position>
         <viz:color r="221" g="72" b="170"></viz:color>
-      </node>
-      <node id="4552" label="doc_4552_каминный_вытяжка_shindo_avior_sensor_ss_bg">
-        <attvalues>
-          <attvalue for="modularity_class" value="47"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="11408.863" y="22587.947"></viz:position>
-        <viz:color r="0" g="255" b="255"></viz:color>
       </node>
       <node id="4553" label="doc_4553_холодильник_scandilux_tmn_ez">
         <attvalues>
@@ -13091,14 +12707,6 @@
         <viz:position x="-475.78058" y="14.089339"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="4635" label="doc_4635_каминный_вытяжка_lex_basic_inox">
-        <attvalues>
-          <attvalue for="modularity_class" value="48"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22777.951" y="15389.413"></viz:position>
-        <viz:color r="255" g="17" b="16"></viz:color>
-      </node>
       <node id="4636" label="doc_4636_пылесос_kraft_kf_vc">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -13330,14 +12938,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-2703.6958" y="-840.3552"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="4665" label="doc_4665_микроволновый_печь_exiteq_exm_white">
-        <attvalues>
-          <attvalue for="modularity_class" value="49"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22301.332" y="2102.922"></viz:position>
-        <viz:color r="255" g="144" b="55"></viz:color>
       </node>
       <node id="4666" label="doc_4666_телевизор_sony_kdl_rf">
         <attvalues>
@@ -13859,14 +13459,6 @@
         <viz:position x="-2193.2622" y="-1658.9119"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
       </node>
-      <node id="4731" label="doc_4731_духовой_шкаф_bosch_hbf_bb">
-        <attvalues>
-          <attvalue for="modularity_class" value="50"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20856.908" y="-2293.1077"></viz:position>
-        <viz:color r="96" g="95" b="73"></viz:color>
-      </node>
       <node id="4732" label="doc_4732_пылесос_xiaomi_deerma_vc">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -14050,14 +13642,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="830.15515" y="-2185.7717"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="4755" label="doc_4755_стиральный_машина_evgo_ws_pet">
-        <attvalues>
-          <attvalue for="modularity_class" value="51"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-17074.82" y="22003.602"></viz:position>
-        <viz:color r="65" g="20" b="56"></viz:color>
       </node>
       <node id="4756" label="doc_4756_накопительный_водонагреватель_gorenje_otgs_smb">
         <attvalues>
@@ -14531,14 +14115,6 @@
         <viz:position x="-566.3792" y="-723.5918"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="4815" label="doc_4815_медиаплеер_rombica_cinema">
-        <attvalues>
-          <attvalue for="modularity_class" value="52"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9899.473" y="22530.072"></viz:position>
-        <viz:color r="0" g="104" b="154"></viz:color>
-      </node>
       <node id="4816" label="doc_4816_пылесос_lg_nnto">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -14546,14 +14122,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2115.9407" y="-1884.9426"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
-      </node>
-      <node id="4817" label="doc_4817_варочный_панель_aeg_hc_eb">
-        <attvalues>
-          <attvalue for="modularity_class" value="53"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="11742.717" y="22609.133"></viz:position>
-        <viz:color r="0" g="133" b="113"></viz:color>
       </node>
       <node id="4818" label="doc_4818_проточный_водонагреватель_kospel_epj_primus">
         <attvalues>
@@ -14658,14 +14226,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="750.0907" y="436.7917"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="4831" label="doc_4831_варочный_панель_fornelli_pia_vento">
-        <attvalues>
-          <attvalue for="modularity_class" value="54"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22648.5" y="12422.924"></viz:position>
-        <viz:color r="94" g="179" b="93"></viz:color>
       </node>
       <node id="4832" label="doc_4832_утюг_ergolux_elx_si">
         <attvalues>
@@ -14802,14 +14362,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1089.1112" y="-2543.5"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="4849" label="doc_4849_духовой_шкаф_fornelli_fet_forte_bl">
-        <attvalues>
-          <attvalue for="modularity_class" value="55"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-8979.096" y="-20999.58"></viz:position>
-        <viz:color r="0" g="201" b="194"></viz:color>
       </node>
       <node id="4850" label="doc_4850_варочный_панель_maunfeld_eehe">
         <attvalues>
@@ -15130,14 +14682,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="330.3459" y="987.6264"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="4890" label="doc_4890_пылесос_gorenje_vc_pswbu">
-        <attvalues>
-          <attvalue for="modularity_class" value="56"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22395.705" y="-6308.7227"></viz:position>
-        <viz:color r="93" g="72" b="0"></viz:color>
       </node>
       <node id="4891" label="doc_4891_погружной_блендер_braun_mq_sauce">
         <attvalues>
@@ -15514,14 +15058,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2218.831" y="-1018.72925"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
-      </node>
-      <node id="4938" label="doc_4938_накопительный_водонагреватель_nibe_biawar_classic_spiro_ow">
-        <attvalues>
-          <attvalue for="modularity_class" value="57"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-17709.42" y="-21220.062"></viz:position>
-        <viz:color r="155" g="65" b="139"></viz:color>
       </node>
       <node id="4939" label="doc_4939_робот_пылесос_clever_clean_series_white_moon">
         <attvalues>
@@ -15947,14 +15483,6 @@
         <viz:position x="-2450.396" y="-1822.5869"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
       </node>
-      <node id="4992" label="doc_4992_микроволновый_печь_lg_mj_ais">
-        <attvalues>
-          <attvalue for="modularity_class" value="58"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-17398.535" y="-21401.273"></viz:position>
-        <viz:color r="132" g="242" b="0"></viz:color>
-      </node>
       <node id="4993" label="doc_4993_триммер_philips_mg_series">
         <attvalues>
           <attvalue for="modularity_class" value="296"></attvalue>
@@ -16042,14 +15570,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="584.66595" y="544.59644"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="6004" label="doc_6004_кофеварка_рожковый_de_longhi_ecz_scultura">
-        <attvalues>
-          <attvalue for="modularity_class" value="59"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22292.926" y="1260.141"></viz:position>
-        <viz:color r="0" g="232" b="255"></viz:color>
       </node>
       <node id="6005" label="doc_6005_микроволновый_печь_samsung_me_suw">
         <attvalues>
@@ -16971,14 +16491,6 @@
         <viz:position x="2933.8003" y="720.21063"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
       </node>
-      <node id="6120" label="doc_6120_варочный_панель_hotpoint_ariston_kid">
-        <attvalues>
-          <attvalue for="modularity_class" value="60"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20905.457" y="-5825.5957"></viz:position>
-        <viz:color r="11" g="118" b="11"></viz:color>
-      </node>
       <node id="6121" label="doc_6121_телевизор_skyworth">
         <attvalues>
           <attvalue for="modularity_class" value="312"></attvalue>
@@ -17506,14 +17018,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1581.2593" y="719.9523"></viz:position>
         <viz:color r="255" g="59" b="9"></viz:color>
-      </node>
-      <node id="6187" label="doc_6187_духовой_шкаф_hotpoint_ariston_fa_bl">
-        <attvalues>
-          <attvalue for="modularity_class" value="61"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9391.292" y="22518.373"></viz:position>
-        <viz:color r="153" g="246" b="211"></viz:color>
       </node>
       <node id="6188" label="doc_6188_электрический_котел_эван_next">
         <attvalues>
@@ -18307,14 +17811,6 @@
         <viz:position x="1264.9651" y="1746.1055"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="6287" label="doc_6287_виниловый_проигрыватель_ion_compact_lp">
-        <attvalues>
-          <attvalue for="modularity_class" value="62"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21380.0" y="16976.914"></viz:position>
-        <viz:color r="255" g="122" b="255"></viz:color>
-      </node>
       <node id="6288" label="doc_6288_накопительный_водонагреватель_round_vmr_standart">
         <attvalues>
           <attvalue for="modularity_class" value="311"></attvalue>
@@ -18483,14 +17979,6 @@
         <viz:position x="3249.6077" y="419.1108"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
       </node>
-      <node id="6309" label="doc_6309_микроволновый_печь_hotpoint_ariston_mwa">
-        <attvalues>
-          <attvalue for="modularity_class" value="63"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21479.945" y="-18835.021"></viz:position>
-        <viz:color r="150" g="81" b="0"></viz:color>
-      </node>
       <node id="6310" label="doc_6310_варочный_панель_korting_hg_ctsb">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -18530,14 +18018,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-633.9922" y="-1716.8325"></viz:position>
         <viz:color r="216" g="217" b="255"></viz:color>
-      </node>
-      <node id="6315" label="doc_6315_варочный_панель_gefest_сг_свн">
-        <attvalues>
-          <attvalue for="modularity_class" value="64"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22623.064" y="11982.386"></viz:position>
-        <viz:color r="0" g="122" b="113"></viz:color>
       </node>
       <node id="6316" label="doc_6316_плита_gorenje_gn_wf">
         <attvalues>
@@ -19019,14 +18499,6 @@
         <viz:position x="1204.8475" y="2141.153"></viz:position>
         <viz:color r="221" g="72" b="170"></viz:color>
       </node>
-      <node id="6376" label="doc_6376_накопительный_водонагреватель_thermex_nova_slim">
-        <attvalues>
-          <attvalue for="modularity_class" value="65"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22503.404" y="9074.974"></viz:position>
-        <viz:color r="0" g="168" b="51"></viz:color>
-      </node>
       <node id="6377" label="doc_6377_стационарный_блендер_bosch_mmb">
         <attvalues>
           <attvalue for="modularity_class" value="282"></attvalue>
@@ -19115,14 +18587,6 @@
         <viz:position x="896.3277" y="-723.76373"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="6388" label="doc_6388_варочный_панель_bosch_pkm_dp">
-        <attvalues>
-          <attvalue for="modularity_class" value="66"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22620.352" y="-11954.5205"></viz:position>
-        <viz:color r="109" g="249" b="160"></viz:color>
-      </node>
       <node id="6389" label="doc_6389_плита_bosch_hga">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -19186,14 +18650,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-362.9803" y="106.69029"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="6397" label="doc_6397_медиаплеер_beelink_bt">
-        <attvalues>
-          <attvalue for="modularity_class" value="67"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22767.1" y="-14943.403"></viz:position>
-        <viz:color r="141" g="101" b="103"></viz:color>
       </node>
       <node id="6398" label="doc_6398_накопительный_водонагреватель_gorenje_gv">
         <attvalues>
@@ -19403,14 +18859,6 @@
         <viz:position x="1753.1128" y="-1065.0161"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
       </node>
-      <node id="6424" label="doc_6424_сплит_система_aeronik_asi_aso_ik">
-        <attvalues>
-          <attvalue for="modularity_class" value="68"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="13012.6875" y="22664.299"></viz:position>
-        <viz:color r="234" g="128" b="136"></viz:color>
-      </node>
       <node id="6425" label="doc_6425_акустический_система_monitor_audio_mr">
         <attvalues>
           <attvalue for="modularity_class" value="294"></attvalue>
@@ -19578,14 +19026,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2418.9368" y="-356.0126"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
-      </node>
-      <node id="6446" label="doc_6446_микроволновый_печь_exiteq_exiteq_exm">
-        <attvalues>
-          <attvalue for="modularity_class" value="69"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22538.713" y="10099.469"></viz:position>
-        <viz:color r="123" g="47" b="0"></viz:color>
       </node>
       <node id="6447" label="doc_6447_пылесос_lg_yhtp">
         <attvalues>
@@ -20483,14 +19923,6 @@
         <viz:position x="3176.6282" y="1289.8175"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
       </node>
-      <node id="6559" label="doc_6559_микроволновый_печь_asko_om">
-        <attvalues>
-          <attvalue for="modularity_class" value="70"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-7088.9067" y="22428.643"></viz:position>
-        <viz:color r="0" g="248" b="0"></viz:color>
-      </node>
       <node id="6560" label="doc_6560_акустический_система_wharfedale_vardus_vr">
         <attvalues>
           <attvalue for="modularity_class" value="294"></attvalue>
@@ -20835,14 +20267,6 @@
         <viz:position x="-406.27826" y="3240.7375"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
       </node>
-      <node id="6603" label="doc_6603_погружной_блендер_endever_sigma">
-        <attvalues>
-          <attvalue for="modularity_class" value="71"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20916.15" y="-6199.6626"></viz:position>
-        <viz:color r="57" g="93" b="32"></viz:color>
-      </node>
       <node id="6604" label="doc_6604_варочный_панель_hotpoint_ariston_pc_ow">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -20947,22 +20371,6 @@
         <viz:position x="-1233.7688" y="-3382.1917"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
       </node>
-      <node id="6617" label="doc_6617_кофеварка_russell_hobbs_luna_filter_coffee">
-        <attvalues>
-          <attvalue for="modularity_class" value="72"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20023.836" y="-21539.87"></viz:position>
-        <viz:color r="57" g="39" b="21"></viz:color>
-      </node>
-      <node id="6618" label="doc_6618_морозильник_haier_hf_wg">
-        <attvalues>
-          <attvalue for="modularity_class" value="73"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-22215.05" y="281.6359"></viz:position>
-        <viz:color r="143" g="124" b="51"></viz:color>
-      </node>
       <node id="6619" label="doc_6619_микроволновый_печь_midea_mm_cj">
         <attvalues>
           <attvalue for="modularity_class" value="289"></attvalue>
@@ -20970,14 +20378,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="704.98236" y="393.06052"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="6620" label="doc_6620_духовой_шкаф_hotpoint_ariston_fk_es_cx">
-        <attvalues>
-          <attvalue for="modularity_class" value="74"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18371.215" y="21034.201"></viz:position>
-        <viz:color r="165" g="244" b="0"></viz:color>
       </node>
       <node id="6621" label="doc_6621_каминный_вытяжка_elikor_модерн_жемчуг_белый">
         <attvalues>
@@ -21018,14 +20418,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="1074.0703" y="506.8775"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
-      </node>
-      <node id="6626" label="doc_6626_духовой_шкаф_electrolux_eoc_bx">
-        <attvalues>
-          <attvalue for="modularity_class" value="75"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="20414.51" y="19273.986"></viz:position>
-        <viz:color r="255" g="173" b="201"></viz:color>
       </node>
       <node id="6627" label="doc_6627_напольный_вентилятор_electrolux_eff">
         <attvalues>
@@ -21475,14 +20867,6 @@
         <viz:position x="-1443.356" y="-3326.2446"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
       </node>
-      <node id="6683" label="doc_6683_стационарный_блендер_rawmid_dream_greenery_dbg">
-        <attvalues>
-          <attvalue for="modularity_class" value="76"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10722.862" y="22560.334"></viz:position>
-        <viz:color r="0" g="134" b="255"></viz:color>
-      </node>
       <node id="6684" label="doc_6684_пылесос_lg_uhap">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -21594,14 +20978,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1093.7378" y="1373.0131"></viz:position>
         <viz:color r="255" g="185" b="255"></viz:color>
-      </node>
-      <node id="6698" label="doc_6698_варочный_панель_whirlpool_acm_ba">
-        <attvalues>
-          <attvalue for="modularity_class" value="77"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20929.086" y="-6995.4463"></viz:position>
-        <viz:color r="0" g="125" b="205"></viz:color>
       </node>
       <node id="6699" label="doc_6699_виниловый_проигрыватель_nad">
         <attvalues>
@@ -22099,14 +21475,6 @@
         <viz:position x="159.21593" y="1933.7278"></viz:position>
         <viz:color r="235" g="130" b="97"></viz:color>
       </node>
-      <node id="6761" label="doc_6761_стиральный_машина_indesit_bwsa">
-        <attvalues>
-          <attvalue for="modularity_class" value="78"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22676.58" y="-13114.893"></viz:position>
-        <viz:color r="255" g="108" b="82"></viz:color>
-      </node>
       <node id="6762" label="doc_6762_холодильник_tesler_rc_silver">
         <attvalues>
           <attvalue for="modularity_class" value="315"></attvalue>
@@ -22210,14 +21578,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="772.8307" y="379.30148"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="6775" label="doc_6775_машинка_стрижка_andis">
-        <attvalues>
-          <attvalue for="modularity_class" value="79"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="15712.292" y="-21320.576"></viz:position>
-        <viz:color r="206" g="159" b="154"></viz:color>
       </node>
       <node id="6776" label="doc_6776_кофеварка_first_austria">
         <attvalues>
@@ -22747,14 +22107,6 @@
         <viz:position x="-3033.1685" y="-2033.7386"></viz:position>
         <viz:color r="0" g="84" b="51"></viz:color>
       </node>
-      <node id="6842" label="doc_6842_щипцы_babyliss_ce">
-        <attvalues>
-          <attvalue for="modularity_class" value="80"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-8823.288" y="22484.725"></viz:position>
-        <viz:color r="142" g="8" b="42"></viz:color>
-      </node>
       <node id="6843" label="doc_6843_робот_пылесос_clever_clean_zpro_series_iii_lpower_aqua_set">
         <attvalues>
           <attvalue for="modularity_class" value="280"></attvalue>
@@ -23106,14 +22458,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-30.43284" y="768.9393"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="6887" label="doc_6887_погружной_блендер_braun_mq_smoothie">
-        <attvalues>
-          <attvalue for="modularity_class" value="81"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="11896.077" y="22615.654"></viz:position>
-        <viz:color r="224" g="0" b="60"></viz:color>
       </node>
       <node id="6888" label="doc_6888_духовой_шкаф_bosch_hbg_ts">
         <attvalues>
@@ -23539,14 +22883,6 @@
         <viz:position x="198.04353" y="1056.4252"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="6941" label="doc_6941_каминный_вытяжка_kronasteel_liva_white">
-        <attvalues>
-          <attvalue for="modularity_class" value="82"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-2127.772" y="-20796.92"></viz:position>
-        <viz:color r="0" g="255" b="255"></viz:color>
-      </node>
       <node id="6942" label="doc_6942_стиральный_машина_hotpoint_ariston_vmf">
         <attvalues>
           <attvalue for="modularity_class" value="288"></attvalue>
@@ -23610,14 +22946,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2154.7544" y="1961.1522"></viz:position>
         <viz:color r="0" g="203" b="28"></viz:color>
-      </node>
-      <node id="6950" label="doc_6950_напольный_вентилятор_scarlett_sc_sf_rc">
-        <attvalues>
-          <attvalue for="modularity_class" value="83"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21069.89" y="18321.42"></viz:position>
-        <viz:color r="0" g="52" b="54"></viz:color>
       </node>
       <node id="6951" label="doc_6951_чайник_maunfeld_mfk">
         <attvalues>
@@ -23755,14 +23083,6 @@
         <viz:position x="-1450.1996" y="-3461.8835"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
       </node>
-      <node id="6968" label="doc_6968_газовый_котел_боринский_аогва_eurosit">
-        <attvalues>
-          <attvalue for="modularity_class" value="84"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16430.652" y="21800.033"></viz:position>
-        <viz:color r="255" g="159" b="242"></viz:color>
-      </node>
       <node id="6969" label="doc_6969_каминный_вытяжка_elica_stripe_bl">
         <attvalues>
           <attvalue for="modularity_class" value="305"></attvalue>
@@ -23802,14 +23122,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1009.36914" y="-3718.5183"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
-      </node>
-      <node id="6974" label="doc_6974_стационарный_блендер_sencor_sbl">
-        <attvalues>
-          <attvalue for="modularity_class" value="85"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="7371.8755" y="22429.72"></viz:position>
-        <viz:color r="255" g="197" b="153"></viz:color>
       </node>
       <node id="6975" label="doc_6975_телевизор_lg_ec">
         <attvalues>
@@ -24483,14 +23795,6 @@
         <viz:position x="1147.4636" y="-703.5027"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="3059" label="doc_3059_пылесос_hoover_sc_dwg_clik">
-        <attvalues>
-          <attvalue for="modularity_class" value="86"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-15160.308" y="22766.002"></viz:position>
-        <viz:color r="144" g="163" b="179"></viz:color>
-      </node>
       <node id="3060" label="doc_3060_плита_leben">
         <attvalues>
           <attvalue for="modularity_class" value="282"></attvalue>
@@ -24554,14 +23858,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="552.92725" y="-953.5032"></viz:position>
         <viz:color r="53" g="230" b="255"></viz:color>
-      </node>
-      <node id="3068" label="doc_3068_встраивать_вытяжка_maunfeld_crosby_push_eco_нержавеющий_сталь">
-        <attvalues>
-          <attvalue for="modularity_class" value="87"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22702.904" y="-13627.233"></viz:position>
-        <viz:color r="0" g="143" b="85"></viz:color>
       </node>
       <node id="3069" label="doc_3069_духовой_шкаф_electrolux_eob_aw">
         <attvalues>
@@ -25051,14 +24347,6 @@
         <viz:position x="1105.0759" y="-1212.79"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="3130" label="doc_3130_морозильник_hiberg_pf">
-        <attvalues>
-          <attvalue for="modularity_class" value="88"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="1509.0778" y="-20795.357"></viz:position>
-        <viz:color r="0" g="204" b="181"></viz:color>
-      </node>
       <node id="3131" label="doc_3131_моноблок_zanussi_zacm_mp_iii">
         <attvalues>
           <attvalue for="modularity_class" value="313"></attvalue>
@@ -25147,30 +24435,6 @@
         <viz:position x="73.69237" y="3.5527575"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
       </node>
-      <node id="3142" label="doc_3142_плита_лысьва_эпб_вишневый">
-        <attvalues>
-          <attvalue for="modularity_class" value="89"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22325.74" y="3661.31"></viz:position>
-        <viz:color r="191" g="214" b="255"></viz:color>
-      </node>
-      <node id="3143" label="doc_3143_холодильник_don">
-        <attvalues>
-          <attvalue for="modularity_class" value="90"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22535.402" y="9911.223"></viz:position>
-        <viz:color r="18" g="133" b="77"></viz:color>
-      </node>
-      <node id="3144" label="doc_3144_холодильник_haier_cwg">
-        <attvalues>
-          <attvalue for="modularity_class" value="91"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21310.336" y="-15430.731"></viz:position>
-        <viz:color r="228" g="157" b="218"></viz:color>
-      </node>
       <node id="3145" label="doc_3145_духовой_шкаф_gorenje_bo_bg">
         <attvalues>
           <attvalue for="modularity_class" value="282"></attvalue>
@@ -25258,14 +24522,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-623.6977" y="-3786.155"></viz:position>
         <viz:color r="217" g="222" b="217"></viz:color>
-      </node>
-      <node id="3156" label="doc_3156_настольный_вентилятор_midea_fs">
-        <attvalues>
-          <attvalue for="modularity_class" value="92"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20897.191" y="-5575.137"></viz:position>
-        <viz:color r="255" g="46" b="163"></viz:color>
       </node>
       <node id="3157" label="doc_3157_холодильник_indesit_ef">
         <attvalues>
@@ -25594,14 +24850,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="76.35522" y="70.97863"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
-      </node>
-      <node id="3198" label="doc_3198_холодильник_xiaomi_viomi_internet_refrigerator_face">
-        <attvalues>
-          <attvalue for="modularity_class" value="93"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="12055.834" y="22620.621"></viz:position>
-        <viz:color r="0" g="221" b="255"></viz:color>
       </node>
       <node id="3199" label="doc_3199_варочный_панель_bosch_pch">
         <attvalues>
@@ -26595,14 +25843,6 @@
         <viz:position x="335.87274" y="1080.7719"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="3323" label="doc_3323_посудомоечный_машина_fornelli_bi_delia">
-        <attvalues>
-          <attvalue for="modularity_class" value="94"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="17254.916" y="22870.938"></viz:position>
-        <viz:color r="0" g="179" b="255"></viz:color>
-      </node>
       <node id="3324" label="doc_3324_сплит_система_hyundai_hsh_ndc">
         <attvalues>
           <attvalue for="modularity_class" value="278"></attvalue>
@@ -26666,14 +25906,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1056.5441" y="655.5408"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
-      </node>
-      <node id="3332" label="doc_3332_плита_лада_pr">
-        <attvalues>
-          <attvalue for="modularity_class" value="95"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-7774.444" y="-20953.924"></viz:position>
-        <viz:color r="255" g="140" b="99"></viz:color>
       </node>
       <node id="3333" label="doc_3333_проточный_водонагреватель_zanussi_logic_душа">
         <attvalues>
@@ -26875,14 +26107,6 @@
         <viz:position x="971.6521" y="-1113.1892"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="3358" label="doc_3358_встраивать_вытяжка_elikor_flat_белый">
-        <attvalues>
-          <attvalue for="modularity_class" value="96"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21012.127" y="9389.132"></viz:position>
-        <viz:color r="0" g="176" b="0"></viz:color>
-      </node>
       <node id="3359" label="doc_3359_холодильник_lg_ga_blgl">
         <attvalues>
           <attvalue for="modularity_class" value="291"></attvalue>
@@ -26930,14 +26154,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="946.2312" y="-701.89484"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
-      </node>
-      <node id="3365" label="doc_3365_плита_gemlux_gl_ic_pro">
-        <attvalues>
-          <attvalue for="modularity_class" value="97"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22635.172" y="-12275.033"></viz:position>
-        <viz:color r="86" g="78" b="24"></viz:color>
       </node>
       <node id="3366" label="doc_3366_щипцы_sinbo_shd">
         <attvalues>
@@ -27226,14 +26442,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="806.8563" y="682.8882"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="3402" label="doc_3402_медиаплеер_mag">
-        <attvalues>
-          <attvalue for="modularity_class" value="98"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22330.836" y="-3960.657"></viz:position>
-        <viz:color r="164" g="119" b="244"></viz:color>
       </node>
       <node id="3403" label="doc_3403_каминный_вытяжка_maunfeld_ancona_plus_черный">
         <attvalues>
@@ -28163,14 +27371,6 @@
         <viz:position x="-545.0669" y="-4074.0864"></viz:position>
         <viz:color r="217" g="222" b="217"></viz:color>
       </node>
-      <node id="3519" label="doc_3519_плита_gemlux_gl_cic">
-        <attvalues>
-          <attvalue for="modularity_class" value="99"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-12305.351" y="22629.695"></viz:position>
-        <viz:color r="0" g="105" b="94"></viz:color>
-      </node>
       <node id="3520" label="doc_3520_триммер_moser_триммер_neoliner">
         <attvalues>
           <attvalue for="modularity_class" value="296"></attvalue>
@@ -28378,14 +27578,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-76.55642" y="127.601814"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
-      </node>
-      <node id="3546" label="doc_3546_холодильник_lg_ga_sygl">
-        <attvalues>
-          <attvalue for="modularity_class" value="100"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22633.586" y="12211.943"></viz:position>
-        <viz:color r="0" g="113" b="37"></viz:color>
       </node>
       <node id="3547" label="doc_3547_духовой_шкаф_gorenje_gcm">
         <attvalues>
@@ -28658,14 +27850,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1382.4198" y="-3081.11"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
-      </node>
-      <node id="3581" label="doc_3581_термопот_vitesse_vs">
-        <attvalues>
-          <attvalue for="modularity_class" value="101"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20821.402" y="-3252.0046"></viz:position>
-        <viz:color r="0" g="135" b="174"></viz:color>
       </node>
       <node id="3582" label="doc_3582_телевизор_lg_sj">
         <attvalues>
@@ -28994,14 +28178,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-627.9574" y="-4062.8384"></viz:position>
         <viz:color r="217" g="222" b="217"></viz:color>
-      </node>
-      <node id="3623" label="doc_3623_духовой_шкаф_maunfeld_eoeh">
-        <attvalues>
-          <attvalue for="modularity_class" value="102"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16523.264" y="-21362.719"></viz:position>
-        <viz:color r="0" g="255" b="255"></viz:color>
       </node>
       <node id="3624" label="doc_3624_варочный_панель_siemens_et_fnp">
         <attvalues>
@@ -29371,14 +28547,6 @@
         <viz:position x="702.44073" y="-1666.7996"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
       </node>
-      <node id="3670" label="doc_3670_духовой_шкаф_schaub_lorenz_slb_ee">
-        <attvalues>
-          <attvalue for="modularity_class" value="103"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-5983.345" y="22387.867"></viz:position>
-        <viz:color r="42" g="64" b="0"></viz:color>
-      </node>
       <node id="3671" label="doc_3671_стиральный_машина_asko">
         <attvalues>
           <attvalue for="modularity_class" value="288"></attvalue>
@@ -29730,14 +28898,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2014.1263" y="-1091.9514"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
-      </node>
-      <node id="3715" label="doc_3715_каминный_вытяжка_kuppersberg_bona_bronze">
-        <attvalues>
-          <attvalue for="modularity_class" value="104"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21115.535" y="11492.885"></viz:position>
-        <viz:color r="222" g="151" b="0"></viz:color>
       </node>
       <node id="3716" label="doc_3716_каминный_вытяжка_faber_ray">
         <attvalues>
@@ -30171,14 +29331,6 @@
         <viz:position x="940.8761" y="2167.064"></viz:position>
         <viz:color r="221" g="72" b="170"></viz:color>
       </node>
-      <node id="3770" label="doc_3770_кофемашина_jura_giga">
-        <attvalues>
-          <attvalue for="modularity_class" value="105"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-10324.752" y="-21073.332"></viz:position>
-        <viz:color r="236" g="95" b="255"></viz:color>
-      </node>
       <node id="3771" label="doc_3771_стиральный_машина_electrolux_ewt_idw">
         <attvalues>
           <attvalue for="modularity_class" value="288"></attvalue>
@@ -30394,14 +29546,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2135.2578" y="1884.0692"></viz:position>
         <viz:color r="0" g="203" b="28"></viz:color>
-      </node>
-      <node id="3798" label="doc_3798_акустический_система_ceratec_effeqt">
-        <attvalues>
-          <attvalue for="modularity_class" value="106"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-6393.6636" y="-20905.586"></viz:position>
-        <viz:color r="200" g="156" b="47"></viz:color>
       </node>
       <node id="3799" label="doc_3799_холодильник_hiberg_rfq_dx_nfxd">
         <attvalues>
@@ -30642,22 +29786,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-629.7415" y="619.0513"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
-      </node>
-      <node id="3829" label="doc_3829_холодильник_sharp_sj_stsl">
-        <attvalues>
-          <attvalue for="modularity_class" value="107"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20878.627" y="-5233.9707"></viz:position>
-        <viz:color r="229" g="79" b="210"></viz:color>
-      </node>
-      <node id="3830" label="doc_3830_каминный_вытяжка_germes_alfa_bk">
-        <attvalues>
-          <attvalue for="modularity_class" value="108"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21249.57" y="14411.936"></viz:position>
-        <viz:color r="244" g="82" b="0"></viz:color>
       </node>
       <node id="3831" label="doc_3831_подвесной_вытяжка_lex_inox">
         <attvalues>
@@ -31011,14 +30139,6 @@
         <viz:position x="-3636.0066" y="208.60709"></viz:position>
         <viz:color r="0" g="255" b="151"></viz:color>
       </node>
-      <node id="3875" label="doc_3875_холодильник_tesler_rc_white">
-        <attvalues>
-          <attvalue for="modularity_class" value="109"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10106.071" y="22535.219"></viz:position>
-        <viz:color r="139" g="7" b="83"></viz:color>
-      </node>
       <node id="3876" label="doc_3876_встраивать_вытяжка_kronasteel_kamilla_slim_inox">
         <attvalues>
           <attvalue for="modularity_class" value="274"></attvalue>
@@ -31338,14 +30458,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1161.3201" y="1728.4418"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
-      </node>
-      <node id="3916" label="doc_3916_плита_лысьва_эпча_черный">
-        <attvalues>
-          <attvalue for="modularity_class" value="110"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21310.809" y="15526.268"></viz:position>
-        <viz:color r="42" g="93" b="71"></viz:color>
       </node>
       <node id="3917" label="doc_3917_каминный_вытяжка_maunfeld_retro_белый">
         <attvalues>
@@ -31707,14 +30819,6 @@
         <viz:position x="-691.4044" y="-2930.844"></viz:position>
         <viz:color r="216" g="217" b="255"></viz:color>
       </node>
-      <node id="3962" label="doc_3962_встраивать_холодильник_beko_bu_hca">
-        <attvalues>
-          <attvalue for="modularity_class" value="111"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="1230.1757" y="23699.127"></viz:position>
-        <viz:color r="83" g="174" b="255"></viz:color>
-      </node>
       <node id="3963" label="doc_3963_холодильник_beko_rdsk">
         <attvalues>
           <attvalue for="modularity_class" value="291"></attvalue>
@@ -31995,14 +31099,6 @@
         <viz:position x="-3165.9333" y="-702.4702"></viz:position>
         <viz:color r="0" g="243" b="255"></viz:color>
       </node>
-      <node id="3998" label="doc_3998_фен_parlux_alyon_ionic">
-        <attvalues>
-          <attvalue for="modularity_class" value="112"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21030.69" y="-9647.418"></viz:position>
-        <viz:color r="246" g="0" b="132"></viz:color>
-      </node>
       <node id="3999" label="doc_3999_плита_flama_rg">
         <attvalues>
           <attvalue for="modularity_class" value="316"></attvalue>
@@ -32186,14 +31282,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1540.0529" y="-2291.658"></viz:position>
         <viz:color r="130" g="51" b="75"></viz:color>
-      </node>
-      <node id="2022" label="doc_2022_вентилятор_увлажнитель_кулер_aliexpress_dmwd_strong_wind_air_conditioning_fan_electric_conditioner_cooling_fans_household_cold_water_cooled_ventilator_cooler_humidifier">
-        <attvalues>
-          <attvalue for="modularity_class" value="113"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9611.595" y="-21032.598"></viz:position>
-        <viz:color r="74" g="243" b="75"></viz:color>
       </node>
       <node id="2023" label="doc_2023_беспроводный_наушник_sony_wi">
         <attvalues>
@@ -32547,14 +31635,6 @@
         <viz:position x="1666.9531" y="-1902.2139"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="2067" label="doc_2067_тепловентилятор_lamark_lk">
-        <attvalues>
-          <attvalue for="modularity_class" value="114"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="7772.556" y="22442.139"></viz:position>
-        <viz:color r="255" g="90" b="91"></viz:color>
-      </node>
       <node id="2068" label="doc_2068_вентилятор_stadler_form_charly_little">
         <attvalues>
           <attvalue for="modularity_class" value="291"></attvalue>
@@ -32891,14 +31971,6 @@
         <viz:position x="-135.34187" y="-1662.4138"></viz:position>
         <viz:color r="73" g="40" b="0"></viz:color>
       </node>
-      <node id="2110" label="doc_2110_часы_настенный_energy_ec">
-        <attvalues>
-          <attvalue for="modularity_class" value="115"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21108.6" y="-11308.461"></viz:position>
-        <viz:color r="0" g="253" b="100"></viz:color>
-      </node>
       <node id="2111" label="doc_2111_воздухоочиститель_venta_lw_plus">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -33107,30 +32179,6 @@
         <viz:position x="-479.20145" y="2517.622"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
       </node>
-      <node id="2137" label="doc_2137_комплект_видеонаблюдение_карка_кит_wifi">
-        <attvalues>
-          <attvalue for="modularity_class" value="116"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-12547.177" y="-21174.947"></viz:position>
-        <viz:color r="231" g="191" b="255"></viz:color>
-      </node>
-      <node id="2138" label="doc_2138_термометр_aliexpress_dt_digital_infrared_thermometer_non_contact_ir_laser_infrared_digital_lcd_thermometer_un_pcs_battery_new">
-        <attvalues>
-          <attvalue for="modularity_class" value="117"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22430.447" y="6928.5186"></viz:position>
-        <viz:color r="255" g="189" b="0"></viz:color>
-      </node>
-      <node id="2139" label="doc_2139_увлажнитель_воздух_vitek_vt">
-        <attvalues>
-          <attvalue for="modularity_class" value="118"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="15103.595" y="-21284.771"></viz:position>
-        <viz:color r="0" g="178" b="211"></viz:color>
-      </node>
       <node id="2140" label="doc_2140_светильник_москитный_мухобойка_delux_akl">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -33170,14 +32218,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-3084.0876" y="-2003.8794"></viz:position>
         <viz:color r="0" g="84" b="51"></viz:color>
-      </node>
-      <node id="2145" label="doc_2145_щетка_пыль_swiffer_duster">
-        <attvalues>
-          <attvalue for="modularity_class" value="119"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22606.135" y="-11645.038"></viz:position>
-        <viz:color r="0" g="255" b="255"></viz:color>
       </node>
       <node id="2146" label="doc_2146_соковыжималка_tribest_slow_star_sw_vs">
         <attvalues>
@@ -33219,14 +32259,6 @@
         <viz:position x="-2102.3318" y="1807.5325"></viz:position>
         <viz:color r="0" g="203" b="28"></viz:color>
       </node>
-      <node id="2151" label="doc_2151_напольный_вентилятор_centek_ct">
-        <attvalues>
-          <attvalue for="modularity_class" value="120"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22313.926" y="-3052.1968"></viz:position>
-        <viz:color r="231" g="221" b="183"></viz:color>
-      </node>
       <node id="2152" label="doc_2152_напольный_весы_starwind_ssp">
         <attvalues>
           <attvalue for="modularity_class" value="283"></attvalue>
@@ -33250,14 +32282,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="676.87756" y="814.06635"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="2155" label="doc_2155_кофемолка_электрический_aliexpress_electric_coffee_grinder_mini_kitchen_salt_pepper_grinder_powerful_beans_spices_nut_seed_coffee_bean_grind_molinillo_cafe">
-        <attvalues>
-          <attvalue for="modularity_class" value="121"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-11042.779" y="-21098.412"></viz:position>
-        <viz:color r="118" g="161" b="43"></viz:color>
       </node>
       <node id="2156" label="doc_2156_медиаплеер_ritmix_rf_gb_yellow_brown">
         <attvalues>
@@ -33451,22 +32475,6 @@
         <viz:position x="-1382.9353" y="-34.93705"></viz:position>
         <viz:color r="255" g="204" b="0"></viz:color>
       </node>
-      <node id="2180" label="doc_2180_батарейка_ермак_солевой">
-        <attvalues>
-          <attvalue for="modularity_class" value="122"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-22188.967" y="-545.5603"></viz:position>
-        <viz:color r="210" g="234" b="128"></viz:color>
-      </node>
-      <node id="2181" label="doc_2181_bluetooth_колонка_marshall_woburn">
-        <attvalues>
-          <attvalue for="modularity_class" value="123"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="5380.956" y="22366.877"></viz:position>
-        <viz:color r="120" g="109" b="0"></viz:color>
-      </node>
       <node id="2182" label="doc_2182_светильник_напольный_camelion_kd">
         <attvalues>
           <attvalue for="modularity_class" value="307"></attvalue>
@@ -33611,14 +32619,6 @@
         <viz:position x="-1173.2809" y="-1420.068"></viz:position>
         <viz:color r="255" g="56" b="238"></viz:color>
       </node>
-      <node id="2200" label="doc_2200_мультимедиа_платформа_яндекс_станция">
-        <attvalues>
-          <attvalue for="modularity_class" value="124"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22584.807" y="-11291.64"></viz:position>
-        <viz:color r="236" g="199" b="255"></viz:color>
-      </node>
       <node id="2201" label="doc_2201_радиобудильник_harper_часы_hclk">
         <attvalues>
           <attvalue for="modularity_class" value="314"></attvalue>
@@ -33690,22 +32690,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-590.19025" y="1446.6309"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
-      </node>
-      <node id="2210" label="doc_2210_тв_приставка_oriel_dvb_ресивер">
-        <attvalues>
-          <attvalue for="modularity_class" value="125"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="8923.703" y="22483.816"></viz:position>
-        <viz:color r="167" g="77" b="75"></viz:color>
-      </node>
-      <node id="2211" label="doc_2211_стиральный_машина_zarget_zwm_st">
-        <attvalues>
-          <attvalue for="modularity_class" value="126"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-16139.351" y="-21341.816"></viz:position>
-        <viz:color r="157" g="158" b="142"></viz:color>
       </node>
       <node id="2212" label="doc_2212_утюг_scarlett_sc_si">
         <attvalues>
@@ -33819,14 +32803,6 @@
         <viz:position x="2235.9585" y="810.07733"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
       </node>
-      <node id="2226" label="doc_2226_напольный_весы_tefal_premiss_peacock_pp">
-        <attvalues>
-          <attvalue for="modularity_class" value="127"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-1814.9836" y="-20804.521"></viz:position>
-        <viz:color r="0" g="78" b="10"></viz:color>
-      </node>
       <node id="2227" label="doc_2227_вертикальный_пылесос_starwind_sch">
         <attvalues>
           <attvalue for="modularity_class" value="279"></attvalue>
@@ -33842,14 +32818,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-716.26953" y="-1491.4528"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
-      </node>
-      <node id="2229" label="doc_2229_универсальный_пульт_vinga_wireless_keyboard_air_mouse_for_tv_pc_ps_media">
-        <attvalues>
-          <attvalue for="modularity_class" value="128"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-6803.3677" y="22421.227"></viz:position>
-        <viz:color r="255" g="201" b="125"></viz:color>
       </node>
       <node id="2230" label="doc_2230_стиральный_машина_славда_ws_et">
         <attvalues>
@@ -33890,22 +32858,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-284.36685" y="3238.555"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
-      </node>
-      <node id="2235" label="doc_2235_зарядный_устройство_interstep_is_tc_usb_krt">
-        <attvalues>
-          <attvalue for="modularity_class" value="129"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="17938.277" y="-20765.62"></viz:position>
-        <viz:color r="135" g="235" b="255"></viz:color>
-      </node>
-      <node id="2236" label="doc_2236_зарядный_устройство_gp_powerbank">
-        <attvalues>
-          <attvalue for="modularity_class" value="130"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22773.05" y="-15123.808"></viz:position>
-        <viz:color r="80" g="48" b="55"></viz:color>
       </node>
       <node id="2237" label="doc_2237_весы_контроль_вес_redmond_rs">
         <attvalues>
@@ -33971,14 +32923,6 @@
         <viz:position x="-242.60321" y="-2677.7405"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
       </node>
-      <node id="2245" label="doc_2245_люстра_mw_light_demarkt_ривз">
-        <attvalues>
-          <attvalue for="modularity_class" value="131"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="19646.719" y="22354.094"></viz:position>
-        <viz:color r="255" g="122" b="255"></viz:color>
-      </node>
       <node id="2246" label="doc_2246_беспроводный_наушник_xiaomi_air_mi_true_wireless_earphones">
         <attvalues>
           <attvalue for="modularity_class" value="304"></attvalue>
@@ -34026,14 +32970,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-902.58856" y="1360.9832"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
-      </node>
-      <node id="2252" label="doc_2252_воздухоочиститель_увлажнитель_bork_rain">
-        <attvalues>
-          <attvalue for="modularity_class" value="132"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-16145.581" y="22706.883"></viz:position>
-        <viz:color r="157" g="170" b="0"></viz:color>
       </node>
       <node id="2253" label="doc_2253_пароочиститель_karcher_sc_deluxe_easyfix_premium">
         <attvalues>
@@ -34115,14 +33051,6 @@
         <viz:position x="-2144.3113" y="-388.44495"></viz:position>
         <viz:color r="0" g="243" b="255"></viz:color>
       </node>
-      <node id="2263" label="doc_2263_увлажнитель_очиститель_воздух_first_fa_white">
-        <attvalues>
-          <attvalue for="modularity_class" value="133"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22658.28" y="12828.994"></viz:position>
-        <viz:color r="194" g="58" b="90"></viz:color>
-      </node>
       <node id="2264" label="doc_2264_оверлок_leran_om">
         <attvalues>
           <attvalue for="modularity_class" value="304"></attvalue>
@@ -34154,14 +33082,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-342.15314" y="2019.3713"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
-      </node>
-      <node id="2268" label="doc_2268_час_настенный_династия_абрикос">
-        <attvalues>
-          <attvalue for="modularity_class" value="134"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21186.297" y="-13035.142"></viz:position>
-        <viz:color r="61" g="112" b="0"></viz:color>
       </node>
       <node id="2269" label="doc_2269_турбо_швабра_top_shop_ураган_turbo_tiger">
         <attvalues>
@@ -34243,14 +33163,6 @@
         <viz:position x="8.82281" y="-1618.5502"></viz:position>
         <viz:color r="73" g="40" b="0"></viz:color>
       </node>
-      <node id="2279" label="doc_2279_настольный_лампа_aliexpress_clip_holder_usb_power_led_desk_lamp_flexible_table_lamp_bedside_lamp_book_light_for_the_bedroom_living_room_home_decoration">
-        <attvalues>
-          <attvalue for="modularity_class" value="135"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-15885.831" y="-21333.111"></viz:position>
-        <viz:color r="37" g="245" b="118"></viz:color>
-      </node>
       <node id="2280" label="doc_2280_тепловентилятор_saturn_st_ht">
         <attvalues>
           <attvalue for="modularity_class" value="278"></attvalue>
@@ -34274,14 +33186,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1949.994" y="1711.088"></viz:position>
         <viz:color r="0" g="203" b="28"></viz:color>
-      </node>
-      <node id="2283" label="doc_2283_радиоприемник_telefunken_tf">
-        <attvalues>
-          <attvalue for="modularity_class" value="136"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22346.434" y="-14755.751"></viz:position>
-        <viz:color r="210" g="242" b="48"></viz:color>
       </node>
       <node id="2284" label="doc_2284_электрошокер_jaguar_ягуар">
         <attvalues>
@@ -34531,14 +33435,6 @@
         <viz:position x="-225.59154" y="3071.6816"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
       </node>
-      <node id="2315" label="doc_2315_инфракрасный_датчик_движение_tdm_electric_ддс">
-        <attvalues>
-          <attvalue for="modularity_class" value="137"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-1349.1885" y="22297.486"></viz:position>
-        <viz:color r="255" g="211" b="217"></viz:color>
-      </node>
       <node id="2316" label="doc_2316_светодиодный_фонарь_yajia_yj">
         <attvalues>
           <attvalue for="modularity_class" value="314"></attvalue>
@@ -34786,14 +33682,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="380.27597" y="1029.4915"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="2347" label="doc_2347_отпариватель_одежда_vlk_sorento">
-        <attvalues>
-          <attvalue for="modularity_class" value="138"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-22169.16" y="910.20886"></viz:position>
-        <viz:color r="255" g="115" b="84"></viz:color>
       </node>
       <node id="2348" label="doc_2348_робот_пылесос_scarlett_sc_vc">
         <attvalues>
@@ -36547,14 +35435,6 @@
         <viz:position x="-3391.771" y="93.00054"></viz:position>
         <viz:color r="0" g="255" b="151"></viz:color>
       </node>
-      <node id="2567" label="doc_2567_холодильник_timberk">
-        <attvalues>
-          <attvalue for="modularity_class" value="139"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-16519.506" y="22249.568"></viz:position>
-        <viz:color r="0" g="198" b="255"></viz:color>
-      </node>
       <node id="2568" label="doc_2568_плита_gorenje_gi_cli">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -37042,14 +35922,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1059.5193" y="3037.2368"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
-      </node>
-      <node id="2629" label="doc_2629_морозильник_liebherr_gpesf">
-        <attvalues>
-          <attvalue for="modularity_class" value="140"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21006.594" y="8906.619"></viz:position>
-        <viz:color r="166" g="238" b="236"></viz:color>
       </node>
       <node id="2630" label="doc_2630_плита_лысьва_эп_ст_wh">
         <attvalues>
@@ -37651,14 +36523,6 @@
         <viz:position x="2605.5156" y="388.6431"></viz:position>
         <viz:color r="239" g="0" b="97"></viz:color>
       </node>
-      <node id="2705" label="doc_2705_плита_лысьва_эпс_мc_зеленый">
-        <attvalues>
-          <attvalue for="modularity_class" value="141"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="17912.86" y="22901.082"></viz:position>
-        <viz:color r="32" g="101" b="202"></viz:color>
-      </node>
       <node id="2706" label="doc_2706_пылесос_kitfort_kt">
         <attvalues>
           <attvalue for="modularity_class" value="279"></attvalue>
@@ -38082,14 +36946,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="928.4524" y="1795.4551"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
-      </node>
-      <node id="2759" label="doc_2759_каминный_вытяжка_elikor_грек_нержавейка">
-        <attvalues>
-          <attvalue for="modularity_class" value="142"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22662.84" y="13026.231"></viz:position>
-        <viz:color r="165" g="68" b="186"></viz:color>
       </node>
       <node id="2760" label="doc_2760_плита_de_luxe_белый">
         <attvalues>
@@ -38547,14 +37403,6 @@
         <viz:position x="2152.103" y="962.40265"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
       </node>
-      <node id="2817" label="doc_2817_плита_electrolux_ekc_aow">
-        <attvalues>
-          <attvalue for="modularity_class" value="143"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="17285.281" y="-21402.883"></viz:position>
-        <viz:color r="0" g="185" b="255"></viz:color>
-      </node>
       <node id="2818" label="doc_2818_медиаплеер_egreat">
         <attvalues>
           <attvalue for="modularity_class" value="294"></attvalue>
@@ -38858,14 +37706,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2088.7966" y="-601.9065"></viz:position>
         <viz:color r="30" g="46" b="50"></viz:color>
-      </node>
-      <node id="2856" label="doc_2856_морозильник_liebherr_gnp">
-        <attvalues>
-          <attvalue for="modularity_class" value="144"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-6428.2974" y="22410.19"></viz:position>
-        <viz:color r="255" g="194" b="187"></viz:color>
       </node>
       <node id="2857" label="doc_2857_каминный_вытяжка_maunfeld_dream_белый">
         <attvalues>
@@ -39371,14 +38211,6 @@
         <viz:position x="-3487.3804" y="182.00085"></viz:position>
         <viz:color r="0" g="255" b="151"></viz:color>
       </node>
-      <node id="2920" label="doc_2920_проточный_водонагреватель_wert_lt">
-        <attvalues>
-          <attvalue for="modularity_class" value="145"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21.353146" y="-20851.457"></viz:position>
-        <viz:color r="231" g="144" b="51"></viz:color>
-      </node>
       <node id="2921" label="doc_2921_робот_пылесос_midea_mvcr">
         <attvalues>
           <attvalue for="modularity_class" value="280"></attvalue>
@@ -39674,14 +38506,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1008.3745" y="-2668.0288"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="2958" label="doc_2958_холодильник_hansa_fm_jaa">
-        <attvalues>
-          <attvalue for="modularity_class" value="146"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22738.389" y="14567.813"></viz:position>
-        <viz:color r="0" g="161" b="227"></viz:color>
       </node>
       <node id="2959" label="doc_2959_утюг_vitek_vt">
         <attvalues>
@@ -40011,14 +38835,6 @@
         <viz:position x="3423.6545" y="994.0561"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
       </node>
-      <node id="0" label="doc_0_напольный_весы_citron_el">
-        <attvalues>
-          <attvalue for="modularity_class" value="147"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22824.475" y="-16373.985"></viz:position>
-        <viz:color r="0" g="193" b="213"></viz:color>
-      </node>
       <node id="1" label="doc_1_микроволновый_печь_zigmund_shtain_bmo">
         <attvalues>
           <attvalue for="modularity_class" value="275"></attvalue>
@@ -40098,14 +38914,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-62.06679" y="445.2488"></viz:position>
         <viz:color r="109" g="72" b="166"></viz:color>
-      </node>
-      <node id="11" label="doc_11_швейный_машина_comfort">
-        <attvalues>
-          <attvalue for="modularity_class" value="148"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-15481.31" y="-21317.086"></viz:position>
-        <viz:color r="0" g="157" b="163"></viz:color>
       </node>
       <node id="12" label="doc_12_пылесос_thomas_allergy_family">
         <attvalues>
@@ -40507,14 +39315,6 @@
         <viz:position x="541.751" y="2356.056"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="62" label="doc_62_торговый_дом_амурвнешторг">
-        <attvalues>
-          <attvalue for="modularity_class" value="149"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="7358.584" y="-20935.62"></viz:position>
-        <viz:color r="236" g="226" b="88"></viz:color>
-      </node>
       <node id="63" label="doc_63_пылесос_bosch_bgs">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -40522,14 +39322,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2169.6963" y="-1923.9913"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
-      </node>
-      <node id="64" label="doc_64_набор_керамический_нож_myvit">
-        <attvalues>
-          <attvalue for="modularity_class" value="150"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22936.87" y="18627.236"></viz:position>
-        <viz:color r="255" g="118" b="196"></viz:color>
       </node>
       <node id="65" label="doc_65_кофемолка_moulinex_ef">
         <attvalues>
@@ -40586,14 +39378,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-307.08615" y="-2348.5383"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
-      </node>
-      <node id="72" label="doc_72_прокат_автомобиль_waytocar_ru">
-        <attvalues>
-          <attvalue for="modularity_class" value="151"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22482.223" y="8604.919"></viz:position>
-        <viz:color r="0" g="252" b="174"></viz:color>
       </node>
       <node id="73" label="doc_73_микроволновый_печь_hotpoint_ariston_mwha">
         <attvalues>
@@ -40778,14 +39562,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="376.98212" y="-19.189577"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
-      </node>
-      <node id="96" label="doc_96_laserix">
-        <attvalues>
-          <attvalue for="modularity_class" value="152"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22316.629" y="3157.6204"></viz:position>
-        <viz:color r="141" g="141" b="255"></viz:color>
       </node>
       <node id="97" label="doc_97_кондиционер_neonix_ac_ch_ice">
         <attvalues>
@@ -41211,14 +39987,6 @@
         <viz:position x="245.41428" y="-814.8492"></viz:position>
         <viz:color r="53" g="230" b="255"></viz:color>
       </node>
-      <node id="150" label="doc_150_фильтр_вода_bluefilters_nl">
-        <attvalues>
-          <attvalue for="modularity_class" value="153"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-14767.356" y="-21279.318"></viz:position>
-        <viz:color r="248" g="205" b="0"></viz:color>
-      </node>
       <node id="151" label="doc_151_пылесос_gutrend_joy_pet">
         <attvalues>
           <attvalue for="modularity_class" value="280"></attvalue>
@@ -41274,14 +40042,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="88.27918" y="1480.1292"></viz:position>
         <viz:color r="235" g="130" b="97"></viz:color>
-      </node>
-      <node id="158" label="doc_158_фильтр_вода_аквафор_фаворит_эко">
-        <attvalues>
-          <attvalue for="modularity_class" value="154"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-10093.412" y="22531.68"></viz:position>
-        <viz:color r="236" g="59" b="30"></viz:color>
       </node>
       <node id="159" label="doc_159_микроволновый_печь_rolsen_ms_mh">
         <attvalues>
@@ -41370,14 +40130,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-345.04828" y="-2520.55"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
-      </node>
-      <node id="170" label="doc_170_кофемашина">
-        <attvalues>
-          <attvalue for="modularity_class" value="155"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16467.096" y="22353.59"></viz:position>
-        <viz:color r="0" g="201" b="113"></viz:color>
       </node>
       <node id="171" label="doc_171_пылесос_dyson_dс_up_top">
         <attvalues>
@@ -41490,14 +40242,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-159.30621" y="-2006.4386"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="185" label="doc_185_морозильник_frostor">
-        <attvalues>
-          <attvalue for="modularity_class" value="156"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22449.14" y="7667.817"></viz:position>
-        <viz:color r="0" g="239" b="255"></viz:color>
       </node>
       <node id="186" label="doc_186_пылесос_bork">
         <attvalues>
@@ -41747,14 +40491,6 @@
         <viz:position x="275.22952" y="-2431.4456"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="217" label="doc_217_эпилятор_philips_bre">
-        <attvalues>
-          <attvalue for="modularity_class" value="157"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20876.76" y="17871.71"></viz:position>
-        <viz:color r="0" g="178" b="129"></viz:color>
-      </node>
       <node id="218" label="doc_218_фильтр_вода_act_get">
         <attvalues>
           <attvalue for="modularity_class" value="302"></attvalue>
@@ -41843,14 +40579,6 @@
         <viz:position x="2409.1304" y="-381.34738"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
       </node>
-      <node id="229" label="doc_229_стиральный_машина_brand_wlx">
-        <attvalues>
-          <attvalue for="modularity_class" value="158"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-16522.906" y="22832.48"></viz:position>
-        <viz:color r="136" g="190" b="0"></viz:color>
-      </node>
       <node id="230" label="doc_230_пылесос_thomas_vestfaliaxt">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -41883,14 +40611,6 @@
         <viz:position x="-2432.2952" y="145.16463"></viz:position>
         <viz:color r="255" g="189" b="213"></viz:color>
       </node>
-      <node id="234" label="doc_234_конвектор_nobo_электрический_конвектор_nobo">
-        <attvalues>
-          <attvalue for="modularity_class" value="159"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="2017.3733" y="-20803.828"></viz:position>
-        <viz:color r="0" g="253" b="239"></viz:color>
-      </node>
       <node id="235" label="doc_235_фильтр_вода_аквафор_трио_норма_умягчать">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -41922,14 +40642,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2406.3179" y="194.61633"></viz:position>
         <viz:color r="239" g="0" b="97"></viz:color>
-      </node>
-      <node id="239" label="doc_239_диакубик">
-        <attvalues>
-          <attvalue for="modularity_class" value="160"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-16698.633" y="-21373.375"></viz:position>
-        <viz:color r="0" g="190" b="217"></viz:color>
       </node>
       <node id="240" label="doc_240_посудомоечный_машина_hotpoint_ariston_lsfk_ru">
         <attvalues>
@@ -42026,14 +40738,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2063.128" y="1843.6118"></viz:position>
         <viz:color r="0" g="203" b="28"></viz:color>
-      </node>
-      <node id="252" label="doc_252_вентилятор_erre_потолочный_вентилятор_oasis">
-        <attvalues>
-          <attvalue for="modularity_class" value="161"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20916.105" y="-6464.463"></viz:position>
-        <viz:color r="0" g="50" b="28"></viz:color>
       </node>
       <node id="253" label="doc_253_мороженица_brand">
         <attvalues>
@@ -42147,14 +40851,6 @@
         <viz:position x="1524.0547" y="316.97763"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
       </node>
-      <node id="267" label="doc_267_измельчитель_leomax_молния">
-        <attvalues>
-          <attvalue for="modularity_class" value="162"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20803.402" y="-2526.9075"></viz:position>
-        <viz:color r="26" g="60" b="87"></viz:color>
-      </node>
       <node id="268" label="doc_268_водонагреватель_baltgaz_neva">
         <attvalues>
           <attvalue for="modularity_class" value="297"></attvalue>
@@ -42234,14 +40930,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="236.7386" y="-2382.3906"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="278" label="doc_278_аэрогриль_daewoo_electronics_dag">
-        <attvalues>
-          <attvalue for="modularity_class" value="163"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="672.49896" y="-21571.322"></viz:position>
-        <viz:color r="0" g="255" b="247"></viz:color>
       </node>
       <node id="279" label="doc_279_хлебопечка_delfa_db">
         <attvalues>
@@ -42395,14 +41083,6 @@
         <viz:position x="-3573.4106" y="190.90854"></viz:position>
         <viz:color r="0" g="255" b="151"></viz:color>
       </node>
-      <node id="298" label="doc_298_духовка_avex_tr_mbcl_pizza">
-        <attvalues>
-          <attvalue for="modularity_class" value="164"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21326.152" y="15867.822"></viz:position>
-        <viz:color r="175" g="62" b="6"></viz:color>
-      </node>
       <node id="299" label="doc_299_машинка_стрижка_remington_hc">
         <attvalues>
           <attvalue for="modularity_class" value="296"></attvalue>
@@ -42442,14 +41122,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1256.3" y="-2906.4285"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="304" label="doc_304_самогонный_аппарат_супер_элита_аромат">
-        <attvalues>
-          <attvalue for="modularity_class" value="165"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22834.775" y="-16647.686"></viz:position>
-        <viz:color r="185" g="194" b="135"></viz:color>
       </node>
       <node id="305" label="doc_305_просмнабр">
         <attvalues>
@@ -42611,22 +41283,6 @@
         <viz:position x="2638.4487" y="-269.7874"></viz:position>
         <viz:color r="0" g="119" b="211"></viz:color>
       </node>
-      <node id="325" label="doc_325_лампа_маникюр_smart_nail_lamp">
-        <attvalues>
-          <attvalue for="modularity_class" value="166"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21371.969" y="16750.799"></viz:position>
-        <viz:color r="128" g="193" b="139"></viz:color>
-      </node>
-      <node id="326" label="doc_326_весы_напольный_ладомир">
-        <attvalues>
-          <attvalue for="modularity_class" value="167"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="8500.626" y="-20979.025"></viz:position>
-        <viz:color r="93" g="195" b="66"></viz:color>
-      </node>
       <node id="327" label="doc_327_плита_gefest_пнс">
         <attvalues>
           <attvalue for="modularity_class" value="273"></attvalue>
@@ -42747,14 +41403,6 @@
         <viz:position x="1963.7178" y="-744.0605"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="342" label="doc_342_микроволновый_печь_deloni_mw">
-        <attvalues>
-          <attvalue for="modularity_class" value="168"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21419.639" y="-17583.066"></viz:position>
-        <viz:color r="255" g="180" b="240"></viz:color>
-      </node>
       <node id="343" label="doc_343_утюг_trikli">
         <attvalues>
           <attvalue for="modularity_class" value="303"></attvalue>
@@ -42803,14 +41451,6 @@
         <viz:position x="-685.3505" y="-1555.1439"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
       </node>
-      <node id="349" label="doc_349_фильтр_вода_luxe_style_компьютеризированный_ступенчатый_система">
-        <attvalues>
-          <attvalue for="modularity_class" value="169"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-15484.588" y="22779.668"></viz:position>
-        <viz:color r="155" g="169" b="240"></viz:color>
-      </node>
       <node id="350" label="doc_350_стиральный_машина_lg_стиральный_машина_lg_ndr">
         <attvalues>
           <attvalue for="modularity_class" value="286"></attvalue>
@@ -42818,14 +41458,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-331.8747" y="3215.8276"></viz:position>
         <viz:color r="255" g="86" b="0"></viz:color>
-      </node>
-      <node id="351" label="doc_351_ладомир_чайник">
-        <attvalues>
-          <attvalue for="modularity_class" value="170"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-14172.188" y="-21249.959"></viz:position>
-        <viz:color r="0" g="118" b="166"></viz:color>
       </node>
       <node id="352" label="doc_352_пылесос_thomas_twin_tt_aquafilter">
         <attvalues>
@@ -43019,14 +41651,6 @@
         <viz:position x="3260.109" y="1233.9122"></viz:position>
         <viz:color r="241" g="110" b="0"></viz:color>
       </node>
-      <node id="376" label="doc_376_холодильник_атланта_мх">
-        <attvalues>
-          <attvalue for="modularity_class" value="171"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-10843.703" y="-21092.87"></viz:position>
-        <viz:color r="255" g="200" b="7"></viz:color>
-      </node>
       <node id="377" label="doc_377_измельчитель_galaxy_gl">
         <attvalues>
           <attvalue for="modularity_class" value="285"></attvalue>
@@ -43098,14 +41722,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1530.7023" y="570.8207"></viz:position>
         <viz:color r="109" g="72" b="166"></viz:color>
-      </node>
-      <node id="386" label="doc_386_блендер_delta_dl">
-        <attvalues>
-          <attvalue for="modularity_class" value="172"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-4540.9663" y="-20851.443"></viz:position>
-        <viz:color r="207" g="225" b="252"></viz:color>
       </node>
       <node id="387" label="doc_387_духовой_шкаф_чудо_пекарь">
         <attvalues>
@@ -43467,14 +42083,6 @@
         <viz:position x="570.49854" y="276.88925"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
       </node>
-      <node id="432" label="doc_432_дистиллятор_магарыч_премиум_бкдр">
-        <attvalues>
-          <attvalue for="modularity_class" value="173"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-699.7324" y="-20922.508"></viz:position>
-        <viz:color r="29" g="147" b="0"></viz:color>
-      </node>
       <node id="433" label="doc_433_стиральный_машина_ardo_wlx">
         <attvalues>
           <attvalue for="modularity_class" value="297"></attvalue>
@@ -43482,14 +42090,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1487.813" y="-704.8713"></viz:position>
         <viz:color r="0" g="214" b="255"></viz:color>
-      </node>
-      <node id="434" label="doc_434_микроволновый_печь_samsung_ce_ksr">
-        <attvalues>
-          <attvalue for="modularity_class" value="174"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-18756.002" y="-20536.75"></viz:position>
-        <viz:color r="186" g="64" b="0"></viz:color>
       </node>
       <node id="435" label="doc_435_пылесос_iclebo_arte_sakura">
         <attvalues>
@@ -43907,14 +42507,6 @@
         <viz:position x="-670.30023" y="1413.7751"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="487" label="doc_487_лампа">
-        <attvalues>
-          <attvalue for="modularity_class" value="175"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-13723.796" y="-21234.234"></viz:position>
-        <viz:color r="182" g="155" b="0"></viz:color>
-      </node>
       <node id="488" label="doc_488_комбайн_bradex_tk">
         <attvalues>
           <attvalue for="modularity_class" value="302"></attvalue>
@@ -44035,14 +42627,6 @@
         <viz:position x="-629.8984" y="668.30444"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
       </node>
-      <node id="503" label="doc_503_швейный_машина_brother_jsl">
-        <attvalues>
-          <attvalue for="modularity_class" value="176"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-13157.538" y="22669.682"></viz:position>
-        <viz:color r="0" g="147" b="255"></viz:color>
-      </node>
       <node id="504" label="doc_504_стиральный_машина_samsung_wf_nmw">
         <attvalues>
           <attvalue for="modularity_class" value="288"></attvalue>
@@ -44098,14 +42682,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-323.0242" y="-2495.3928"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
-      </node>
-      <node id="511" label="doc_511_фильтр_вода_ооо_фибос_фибос">
-        <attvalues>
-          <attvalue for="modularity_class" value="177"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="19025.898" y="22956.521"></viz:position>
-        <viz:color r="161" g="200" b="181"></viz:color>
       </node>
       <node id="512" label="doc_512_кофеварка_zepter_zespresso_caf">
         <attvalues>
@@ -44163,14 +42739,6 @@
         <viz:position x="-3259.5532" y="-747.20776"></viz:position>
         <viz:color r="0" g="243" b="255"></viz:color>
       </node>
-      <node id="519" label="doc_519_соковыжималка_moulinex_ju_smith_xxl">
-        <attvalues>
-          <attvalue for="modularity_class" value="178"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21604.303" y="-21307.906"></viz:position>
-        <viz:color r="255" g="147" b="255"></viz:color>
-      </node>
       <node id="520" label="doc_520_фильтр_вода_аквафор_гросс">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -44194,14 +42762,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="68.4205" y="-903.8407"></viz:position>
         <viz:color r="53" g="230" b="255"></viz:color>
-      </node>
-      <node id="523" label="doc_523_весы_кухонный_polaris_pks">
-        <attvalues>
-          <attvalue for="modularity_class" value="179"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-3047.8127" y="-20815.916"></viz:position>
-        <viz:color r="139" g="116" b="199"></viz:color>
       </node>
       <node id="524" label="doc_524_мультиварка_dex_dcm">
         <attvalues>
@@ -44307,14 +42867,6 @@
         <viz:position x="-800.68005" y="-2786.3257"></viz:position>
         <viz:color r="216" g="217" b="255"></viz:color>
       </node>
-      <node id="537" label="doc_537_блендер_redmond_рмн">
-        <attvalues>
-          <attvalue for="modularity_class" value="180"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22383.01" y="-5924.904"></viz:position>
-        <viz:color r="255" g="146" b="0"></viz:color>
-      </node>
       <node id="538" label="doc_538_типография_digital_art">
         <attvalues>
           <attvalue for="modularity_class" value="292"></attvalue>
@@ -44402,14 +42954,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-3539.7263" y="-762.87335"></viz:position>
         <viz:color r="0" g="243" b="255"></viz:color>
-      </node>
-      <node id="549" label="doc_549_напольный_газовый_котел_акгва">
-        <attvalues>
-          <attvalue for="modularity_class" value="181"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-13413.947" y="22678.75"></viz:position>
-        <viz:color r="0" g="200" b="144"></viz:color>
       </node>
       <node id="550" label="doc_550_утюг_philips_gc_easyspeed_gc">
         <attvalues>
@@ -44602,14 +43146,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1318.8052" y="1869.2373"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
-      </node>
-      <node id="574" label="doc_574_масляный_радиатор_rolsen_roh">
-        <attvalues>
-          <attvalue for="modularity_class" value="182"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21156.781" y="12472.1"></viz:position>
-        <viz:color r="102" g="123" b="176"></viz:color>
       </node>
       <node id="575" label="doc_575_smart_baby_watch_умный_детский_час_ихтиандр">
         <attvalues>
@@ -44835,14 +43371,6 @@
         <viz:position x="2384.837" y="-993.86774"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="603" label="doc_603_электробритва_braun">
-        <attvalues>
-          <attvalue for="modularity_class" value="183"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22651.713" y="-12642.137"></viz:position>
-        <viz:color r="108" g="35" b="94"></viz:color>
-      </node>
       <node id="604" label="doc_604_водонагреватель_polaris_fdr">
         <attvalues>
           <attvalue for="modularity_class" value="306"></attvalue>
@@ -44850,14 +43378,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1194.8641" y="1688.8815"></viz:position>
         <viz:color r="255" g="185" b="255"></viz:color>
-      </node>
-      <node id="605" label="doc_605_соковыжималка_tribest_slowstar_sw_tribest_corporation">
-        <attvalues>
-          <attvalue for="modularity_class" value="184"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21217.678" y="13699.555"></viz:position>
-        <viz:color r="255" g="38" b="65"></viz:color>
       </node>
       <node id="606" label="doc_606_аппарат_вакуумный_роликовый_массаж">
         <attvalues>
@@ -44874,14 +43394,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-3512.2593" y="-730.04224"></viz:position>
         <viz:color r="0" g="243" b="255"></viz:color>
-      </node>
-      <node id="608" label="doc_608_мультиварка_vitesse_vs">
-        <attvalues>
-          <attvalue for="modularity_class" value="185"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21396.645" y="17223.264"></viz:position>
-        <viz:color r="0" g="201" b="211"></viz:color>
       </node>
       <node id="609" label="doc_609_пылесос_kavity_vertigo">
         <attvalues>
@@ -45002,14 +43514,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-502.40363" y="-694.70276"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="624" label="doc_624_юлианна_колдовко_отзыв">
-        <attvalues>
-          <attvalue for="modularity_class" value="186"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21966.074" y="2854.4072"></viz:position>
-        <viz:color r="132" g="90" b="143"></viz:color>
       </node>
       <node id="625" label="doc_625_художественный_керамика_славянск">
         <attvalues>
@@ -45179,14 +43683,6 @@
         <viz:position x="919.304" y="1670.8848"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="646" label="doc_646_электрочайник_ладомир_чайник_ладомир">
-        <attvalues>
-          <attvalue for="modularity_class" value="187"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20887.879" y="6087.449"></viz:position>
-        <viz:color r="255" g="88" b="116"></viz:color>
-      </node>
       <node id="647" label="doc_647_tinydeal_бесконтактный_термометр">
         <attvalues>
           <attvalue for="modularity_class" value="297"></attvalue>
@@ -45202,14 +43698,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="507.68582" y="422.40164"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="649" label="doc_649_пылесос_irobot_робот_пылесос_irobot_roomba">
-        <attvalues>
-          <attvalue for="modularity_class" value="188"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="23093.615" y="784.29535"></viz:position>
-        <viz:color r="114" g="137" b="72"></viz:color>
       </node>
       <node id="650" label="doc_650_холодильник_aeg_santo">
         <attvalues>
@@ -45443,14 +43931,6 @@
         <viz:position x="575.9199" y="2560.7693"></viz:position>
         <viz:color r="148" g="112" b="0"></viz:color>
       </node>
-      <node id="679" label="doc_679_ионизатор_leveluk_sd">
-        <attvalues>
-          <attvalue for="modularity_class" value="189"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21080.16" y="10824.455"></viz:position>
-        <viz:color r="0" g="101" b="60"></viz:color>
-      </node>
       <node id="680" label="doc_680_машинка_стрижка_ладомир_та">
         <attvalues>
           <attvalue for="modularity_class" value="317"></attvalue>
@@ -45546,14 +44026,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2724.7378" y="8.492016"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="692" label="doc_692_фильтр_вода_гейзер_био">
-        <attvalues>
-          <attvalue for="modularity_class" value="190"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16341.814" y="22823.914"></viz:position>
-        <viz:color r="255" g="120" b="255"></viz:color>
       </node>
       <node id="693" label="doc_693_фильтр_вода_каскад_комфорт">
         <attvalues>
@@ -46179,14 +44651,6 @@
         <viz:position x="-2204.2625" y="-1733.7456"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
       </node>
-      <node id="771" label="doc_771_фильтр_вода_аквафор_осмо_кристалл_исп">
-        <attvalues>
-          <attvalue for="modularity_class" value="191"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="11303.303" y="-21098.72"></viz:position>
-        <viz:color r="255" g="121" b="159"></viz:color>
-      </node>
       <node id="772" label="doc_772_центр_сертификация_сертификация_плюс">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -46315,30 +44779,6 @@
         <viz:position x="190.83981" y="1585.5613"></viz:position>
         <viz:color r="235" g="130" b="97"></viz:color>
       </node>
-      <node id="788" label="doc_788_микроволновый_печь_gorenje_mo_mw">
-        <attvalues>
-          <attvalue for="modularity_class" value="192"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="9456.405" y="22505.701"></viz:position>
-        <viz:color r="0" g="136" b="0"></viz:color>
-      </node>
-      <node id="789" label="doc_789_хлебопечка_lg_hb_ce">
-        <attvalues>
-          <attvalue for="modularity_class" value="193"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="5052.5396" y="-20861.238"></viz:position>
-        <viz:color r="244" g="3" b="169"></viz:color>
-      </node>
-      <node id="790" label="doc_790_швейный_машина_dragonfly">
-        <attvalues>
-          <attvalue for="modularity_class" value="194"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="14887.346" y="-21276.734"></viz:position>
-        <viz:color r="154" g="87" b="119"></viz:color>
-      </node>
       <node id="791" label="doc_791_нпп_технохолод_http_www_vik_hitline_ru">
         <attvalues>
           <attvalue for="modularity_class" value="316"></attvalue>
@@ -46443,14 +44883,6 @@
         <viz:position x="1079.9788" y="-2569.5156"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
       </node>
-      <node id="804" label="doc_804_maxwell_mw">
-        <attvalues>
-          <attvalue for="modularity_class" value="195"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="13201.56" y="-21189.414"></viz:position>
-        <viz:color r="252" g="138" b="176"></viz:color>
-      </node>
       <node id="805" label="doc_805_весы_ладомир">
         <attvalues>
           <attvalue for="modularity_class" value="305"></attvalue>
@@ -46458,14 +44890,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2906.4807" y="88.806564"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="806" label="doc_806_эпилятор_венера">
-        <attvalues>
-          <attvalue for="modularity_class" value="196"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-2059.2146" y="22302.053"></viz:position>
-        <viz:color r="0" g="228" b="255"></viz:color>
       </node>
       <node id="807" label="doc_807_щипцы_remington_cs">
         <attvalues>
@@ -46699,14 +45123,6 @@
         <viz:position x="2000.1637" y="-852.69855"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="836" label="doc_836_видеокамера_cansonic_fdv">
-        <attvalues>
-          <attvalue for="modularity_class" value="197"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-12116.897" y="22623.703"></viz:position>
-        <viz:color r="255" g="206" b="255"></viz:color>
-      </node>
       <node id="837" label="doc_837_телефон_samsung_galaxy_note">
         <attvalues>
           <attvalue for="modularity_class" value="314"></attvalue>
@@ -46923,14 +45339,6 @@
         <viz:position x="-78.41019" y="985.0799"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="864" label="doc_864_youup_день_любой_навык">
-        <attvalues>
-          <attvalue for="modularity_class" value="198"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20960.936" y="8146.244"></viz:position>
-        <viz:color r="48" g="71" b="143"></viz:color>
-      </node>
       <node id="865" label="doc_865_игра_forza_horizon">
         <attvalues>
           <attvalue for="modularity_class" value="309"></attvalue>
@@ -47034,14 +45442,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-643.22906" y="-623.9567"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="878" label="doc_878_urusoft_subtitle_workshop">
-        <attvalues>
-          <attvalue for="modularity_class" value="199"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22586.145" y="11330.669"></viz:position>
-        <viz:color r="0" g="98" b="111"></viz:color>
       </node>
       <node id="879" label="doc_879_ноутбук_lenovo_ideapad">
         <attvalues>
@@ -47675,14 +46075,6 @@
         <viz:position x="2042.3901" y="-620.00385"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="958" label="doc_958_huawei">
-        <attvalues>
-          <attvalue for="modularity_class" value="200"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="1771.9482" y="-20800.994"></viz:position>
-        <viz:color r="218" g="159" b="106"></viz:color>
-      </node>
       <node id="959" label="doc_959_игра_race_driver_grid">
         <attvalues>
           <attvalue for="modularity_class" value="309"></attvalue>
@@ -47930,14 +46322,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2228.7117" y="-991.6074"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
-      </node>
-      <node id="990" label="doc_990_крышка_объектив_flama">
-        <attvalues>
-          <attvalue for="modularity_class" value="201"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="4349.858" y="-20848.596"></viz:position>
-        <viz:color r="255" g="164" b="0"></viz:color>
       </node>
       <node id="991" label="doc_991_антенна_комнатный_усилитель_selenga_отзыв">
         <attvalues>
@@ -48227,14 +46611,6 @@
         <viz:position x="1464.967" y="631.70325"></viz:position>
         <viz:color r="109" g="72" b="166"></viz:color>
       </node>
-      <node id="1027" label="doc_1027_нетбук_apple_sd">
-        <attvalues>
-          <attvalue for="modularity_class" value="202"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21009.053" y="9160.495"></viz:position>
-        <viz:color r="255" g="182" b="64"></viz:color>
-      </node>
       <node id="1028" label="doc_1028_планшет_teclast_hd">
         <attvalues>
           <attvalue for="modularity_class" value="312"></attvalue>
@@ -48331,14 +46707,6 @@
         <viz:position x="-1600.4916" y="1470.0676"></viz:position>
         <viz:color r="145" g="248" b="104"></viz:color>
       </node>
-      <node id="1040" label="doc_1040_virtualbox">
-        <attvalues>
-          <attvalue for="modularity_class" value="203"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22721.42" y="-14017.54"></viz:position>
-        <viz:color r="0" g="193" b="255"></viz:color>
-      </node>
       <node id="1041" label="doc_1041_телефон_huawei_mate_pro">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -48346,14 +46714,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1716.5361" y="856.7886"></viz:position>
         <viz:color r="255" g="59" b="9"></viz:color>
-      </node>
-      <node id="1042" label="doc_1042_стабилизатор_напряжение_vega">
-        <attvalues>
-          <attvalue for="modularity_class" value="204"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-192.57608" y="-20986.627"></viz:position>
-        <viz:color r="189" g="93" b="50"></viz:color>
       </node>
       <node id="1043" label="doc_1043_фотоаппарат_fujifilm_instax_mini">
         <attvalues>
@@ -48715,14 +47075,6 @@
         <viz:position x="2257.1318" y="-670.4015"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="1088" label="doc_1088_наушник_keenion_km">
-        <attvalues>
-          <attvalue for="modularity_class" value="205"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20894.803" y="6363.421"></viz:position>
-        <viz:color r="195" g="122" b="100"></viz:color>
-      </node>
       <node id="1089" label="doc_1089_игра_fahrenheit">
         <attvalues>
           <attvalue for="modularity_class" value="309"></attvalue>
@@ -48762,14 +47114,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="233.20226" y="1053.6106"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="1094" label="doc_1094_develstudio">
-        <attvalues>
-          <attvalue for="modularity_class" value="206"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21152.158" y="-12370.903"></viz:position>
-        <viz:color r="87" g="152" b="144"></viz:color>
       </node>
       <node id="1095" label="doc_1095_usb_звуковой_карта">
         <attvalues>
@@ -49178,14 +47522,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2919.8687" y="-6.7853975"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="1146" label="doc_1146_смарт_терминал_эвотор">
-        <attvalues>
-          <attvalue for="modularity_class" value="207"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22395.402" y="6094.692"></viz:position>
-        <viz:color r="67" g="129" b="211"></viz:color>
       </node>
       <node id="1147" label="doc_1147_игра_нэнси_дрю_проклятие_поместье_блэкмур">
         <attvalues>
@@ -50003,14 +48339,6 @@
         <viz:position x="2322.2495" y="-1142.9011"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="1249" label="doc_1249_видеокамера_московский_система_видеонаблюдение_купольный_ip_камера_видеонаблюдение_full_hd">
-        <attvalues>
-          <attvalue for="modularity_class" value="208"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22817.562" y="16139.278"></viz:position>
-        <viz:color r="0" g="167" b="146"></viz:color>
-      </node>
       <node id="1250" label="doc_1250_телевизор_samsung_qe_cam">
         <attvalues>
           <attvalue for="modularity_class" value="312"></attvalue>
@@ -50266,14 +48594,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2334.2112" y="-1008.9822"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
-      </node>
-      <node id="1282" label="doc_1282_pawer_banks">
-        <attvalues>
-          <attvalue for="modularity_class" value="209"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22334.523" y="-4202.171"></viz:position>
-        <viz:color r="61" g="195" b="0"></viz:color>
       </node>
       <node id="1283" label="doc_1283_планшет_cube_gt">
         <attvalues>
@@ -50579,14 +48899,6 @@
         <viz:position x="2262.9514" y="-1123.3627"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="1321" label="doc_1321_ashampoo_burning_studio">
-        <attvalues>
-          <attvalue for="modularity_class" value="210"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="19545.588" y="19702.182"></viz:position>
-        <viz:color r="255" g="0" b="109"></viz:color>
-      </node>
       <node id="1322" label="doc_1322_levelsun">
         <attvalues>
           <attvalue for="modularity_class" value="299"></attvalue>
@@ -50690,14 +49002,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-948.23553" y="-966.98456"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
-      </node>
-      <node id="1335" label="doc_1335_фитнес_трекер_jet_sport_ft">
-        <attvalues>
-          <attvalue for="modularity_class" value="211"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="9259.142" y="-21003.691"></viz:position>
-        <viz:color r="0" g="255" b="255"></viz:color>
       </node>
       <node id="1336" label="doc_1336_телефон_московский_сотовый_связь_skylink_simple">
         <attvalues>
@@ -50810,14 +49114,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1391.7158" y="-300.54947"></viz:position>
         <viz:color r="38" g="174" b="140"></viz:color>
-      </node>
-      <node id="1350" label="doc_1350_карандаш_очиск_оптика_lenspen">
-        <attvalues>
-          <attvalue for="modularity_class" value="212"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="12385.007" y="22633.09"></viz:position>
-        <viz:color r="195" g="179" b="255"></viz:color>
       </node>
       <node id="1351" label="doc_1351_игра_machinarium">
         <attvalues>
@@ -51075,14 +49371,6 @@
         <viz:position x="-366.33533" y="-2361.253"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
       </node>
-      <node id="1383" label="doc_1383_электронный_стартер_солярий_puresun">
-        <attvalues>
-          <attvalue for="modularity_class" value="213"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-7954.878" y="-20957.396"></viz:position>
-        <viz:color r="0" g="116" b="137"></viz:color>
-      </node>
       <node id="1384" label="doc_1384_коврик_мышь_tomtop_---">
         <attvalues>
           <attvalue for="modularity_class" value="314"></attvalue>
@@ -51147,14 +49435,6 @@
         <viz:position x="-655.23206" y="-443.94086"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="1392" label="doc_1392_гаджет_погода">
-        <attvalues>
-          <attvalue for="modularity_class" value="214"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="6296.4707" y="22394.896"></viz:position>
-        <viz:color r="201" g="113" b="0"></viz:color>
-      </node>
       <node id="1393" label="doc_1393_телефон_sony_ericsson_wt_live_with_walkman">
         <attvalues>
           <attvalue for="modularity_class" value="305"></attvalue>
@@ -51162,14 +49442,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-2821.427" y="-126.974525"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="1394" label="doc_1394_мышь_bloody_gun">
-        <attvalues>
-          <attvalue for="modularity_class" value="215"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="981.93414" y="-21612.365"></viz:position>
-        <viz:color r="210" g="64" b="66"></viz:color>
       </node>
       <node id="1395" label="doc_1395_игровой_приставка_jxd">
         <attvalues>
@@ -51187,14 +49459,6 @@
         <viz:position x="-252.76926" y="-689.42224"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="1397" label="doc_1397_ипб_apc_back_ups_es">
-        <attvalues>
-          <attvalue for="modularity_class" value="216"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="2324.33" y="-20800.285"></viz:position>
-        <viz:color r="0" g="150" b="196"></viz:color>
-      </node>
       <node id="1398" label="doc_1398_видеокамера_zpt_ip">
         <attvalues>
           <attvalue for="modularity_class" value="310"></attvalue>
@@ -51202,22 +49466,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2562.942" y="135.91177"></viz:position>
         <viz:color r="239" g="0" b="97"></viz:color>
-      </node>
-      <node id="1399" label="doc_1399_видеорегистратор_goluk">
-        <attvalues>
-          <attvalue for="modularity_class" value="217"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22741.307" y="-14414.982"></viz:position>
-        <viz:color r="0" g="221" b="115"></viz:color>
-      </node>
-      <node id="1400" label="doc_1400_телефон_sony_xperia_compact">
-        <attvalues>
-          <attvalue for="modularity_class" value="218"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18174.467" y="-21394.94"></viz:position>
-        <viz:color r="255" g="157" b="100"></viz:color>
       </node>
       <node id="1401" label="doc_1401_игра_worms_armageddon">
         <attvalues>
@@ -51299,14 +49547,6 @@
         <viz:position x="805.69775" y="510.14633"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
       </node>
-      <node id="1411" label="doc_1411_sopcast">
-        <attvalues>
-          <attvalue for="modularity_class" value="219"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16949.082" y="22244.506"></viz:position>
-        <viz:color r="255" g="126" b="0"></viz:color>
-      </node>
       <node id="1412" label="doc_1412_компьютер_nec_lcd_wmgx">
         <attvalues>
           <attvalue for="modularity_class" value="272"></attvalue>
@@ -51330,14 +49570,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-188.33116" y="-2431.2087"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
-      </node>
-      <node id="1415" label="doc_1415_телефон_huawei_honor_lite">
-        <attvalues>
-          <attvalue for="modularity_class" value="220"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-9028.612" y="22490.473"></viz:position>
-        <viz:color r="0" g="236" b="255"></viz:color>
       </node>
       <node id="1416" label="doc_1416_проигрователь_aimp">
         <attvalues>
@@ -51442,14 +49674,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="394.2957" y="769.4841"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="1429" label="doc_1429_чехол_ультратонкий_watercolor_paintbox">
-        <attvalues>
-          <attvalue for="modularity_class" value="221"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-1557.6459" y="-21537.023"></viz:position>
-        <viz:color r="101" g="191" b="220"></viz:color>
       </node>
       <node id="1430" label="doc_1430_планшет_aigo_ipad">
         <attvalues>
@@ -51570,14 +49794,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-326.41846" y="-502.28894"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
-      </node>
-      <node id="1445" label="doc_1445_shotnes">
-        <attvalues>
-          <attvalue for="modularity_class" value="222"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-17261.408" y="-21404.416"></viz:position>
-        <viz:color r="255" g="181" b="255"></viz:color>
       </node>
       <node id="1446" label="doc_1446_материнский_плата_asus">
         <attvalues>
@@ -51730,14 +49946,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-668.6987" y="-1712.0286"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
-      </node>
-      <node id="1465" label="doc_1465_монитор_envision">
-        <attvalues>
-          <attvalue for="modularity_class" value="223"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21066.75" y="-10396.33"></viz:position>
-        <viz:color r="0" g="156" b="156"></viz:color>
       </node>
       <node id="1466" label="doc_1466_активный_очки_телевизор_sony">
         <attvalues>
@@ -52018,14 +50226,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-795.29724" y="1295.4924"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
-      </node>
-      <node id="1501" label="doc_1501_монитор_dell_se_se_hm">
-        <attvalues>
-          <attvalue for="modularity_class" value="224"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-5778.8877" y="-20887.13"></viz:position>
-        <viz:color r="255" g="0" b="49"></viz:color>
       </node>
       <node id="1502" label="doc_1502_игра_sleeping_dogs_sleepingdogs">
         <attvalues>
@@ -52379,14 +50579,6 @@
         <viz:position x="-3007.6099" y="-94.99168"></viz:position>
         <viz:color r="255" g="128" b="255"></viz:color>
       </node>
-      <node id="1546" label="doc_1546_наушник_sennheiser_hd">
-        <attvalues>
-          <attvalue for="modularity_class" value="225"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10529.02" y="-21078.232"></viz:position>
-        <viz:color r="165" g="238" b="122"></viz:color>
-      </node>
       <node id="1547" label="doc_1547_игра_clive_barker_jericho">
         <attvalues>
           <attvalue for="modularity_class" value="309"></attvalue>
@@ -52467,14 +50659,6 @@
         <viz:position x="533.8878" y="2463.437"></viz:position>
         <viz:color r="148" g="112" b="0"></viz:color>
       </node>
-      <node id="1557" label="doc_1557_ejuk_revo_touch">
-        <attvalues>
-          <attvalue for="modularity_class" value="226"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22300.445" y="-2130.156"></viz:position>
-        <viz:color r="0" g="136" b="104"></viz:color>
-      </node>
       <node id="1558" label="doc_1558_видеокамера_alteron_by_smartec">
         <attvalues>
           <attvalue for="modularity_class" value="316"></attvalue>
@@ -52538,14 +50722,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1472.5894" y="-165.50449"></viz:position>
         <viz:color r="38" g="174" b="140"></viz:color>
-      </node>
-      <node id="1566" label="doc_1566_викторина_mail_ru">
-        <attvalues>
-          <attvalue for="modularity_class" value="227"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="6095.111" y="-20886.996"></viz:position>
-        <viz:color r="216" g="117" b="187"></viz:color>
       </node>
       <node id="1567" label="doc_1567_коврик_мышь_tech_bloody">
         <attvalues>
@@ -52731,14 +50907,6 @@
         <viz:position x="-1380.3953" y="208.93806"></viz:position>
         <viz:color r="255" g="204" b="0"></viz:color>
       </node>
-      <node id="1590" label="doc_1590_гарнитур_talk_talk_tk">
-        <attvalues>
-          <attvalue for="modularity_class" value="228"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22348.416" y="-4704.232"></viz:position>
-        <viz:color r="255" g="118" b="190"></viz:color>
-      </node>
       <node id="1591" label="doc_1591_касса">
         <attvalues>
           <attvalue for="modularity_class" value="272"></attvalue>
@@ -52874,14 +51042,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-477.9214" y="-1491.6116"></viz:position>
         <viz:color r="255" g="214" b="92"></viz:color>
-      </node>
-      <node id="1608" label="doc_1608_умный_часы_makibes_smart_watch_android">
-        <attvalues>
-          <attvalue for="modularity_class" value="229"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21112.623" y="-19292.732"></viz:position>
-        <viz:color r="213" g="180" b="208"></viz:color>
       </node>
       <node id="1609" label="doc_1609_игра_audiosurf">
         <attvalues>
@@ -53034,14 +51194,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="576.5524" y="2652.179"></viz:position>
         <viz:color r="148" g="112" b="0"></viz:color>
-      </node>
-      <node id="1628" label="doc_1628_блок_питание_enermax_platimax_epm_ewt">
-        <attvalues>
-          <attvalue for="modularity_class" value="230"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22439.068" y="7242.9556"></viz:position>
-        <viz:color r="178" g="14" b="124"></viz:color>
       </node>
       <node id="1629" label="doc_1629_bertheussen_it_recolored">
         <attvalues>
@@ -53803,14 +51955,6 @@
         <viz:position x="96.900345" y="-1620.6486"></viz:position>
         <viz:color r="73" g="40" b="0"></viz:color>
       </node>
-      <node id="1724" label="doc_1724_конвектор_electrolux_ech_ag_mf">
-        <attvalues>
-          <attvalue for="modularity_class" value="231"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22345.297" y="4600.365"></viz:position>
-        <viz:color r="0" g="53" b="85"></viz:color>
-      </node>
       <node id="1725" label="doc_1725_вентилятор_напольный_home_element_he_fn">
         <attvalues>
           <attvalue for="modularity_class" value="284"></attvalue>
@@ -54123,14 +52267,6 @@
         <viz:position x="-2559.1562" y="1213.0626"></viz:position>
         <viz:color r="145" g="248" b="104"></viz:color>
       </node>
-      <node id="1764" label="doc_1764_мухобойка_электрический_aliexpress_mosquito_zapper_swatter_killer_pest_control_insect_bug_bat_whasp_zapper_fly_mosquito_killer">
-        <attvalues>
-          <attvalue for="modularity_class" value="232"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20958.832" y="-7866.9414"></viz:position>
-        <viz:color r="0" g="196" b="109"></viz:color>
-      </node>
       <node id="1765" label="doc_1765_ультразвуковой_увлажнитель_воздух_polaris_puh">
         <attvalues>
           <attvalue for="modularity_class" value="307"></attvalue>
@@ -54146,14 +52282,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="969.8221" y="2109.4214"></viz:position>
         <viz:color r="221" g="72" b="170"></viz:color>
-      </node>
-      <node id="1767" label="doc_1767_наушник_jbl_pure_bass">
-        <attvalues>
-          <attvalue for="modularity_class" value="233"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10981.59" y="-21085.148"></viz:position>
-        <viz:color r="255" g="90" b="199"></viz:color>
       </node>
       <node id="1768" label="doc_1768_стиральный_машина_siemens_ws_oe">
         <attvalues>
@@ -54267,14 +52395,6 @@
         <viz:position x="998.0183" y="1853.2661"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="1782" label="doc_1782_вентилятор_maxwell_mw">
-        <attvalues>
-          <attvalue for="modularity_class" value="234"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-7099.688" y="-20930.932"></viz:position>
-        <viz:color r="255" g="203" b="66"></viz:color>
-      </node>
       <node id="1783" label="doc_1783_ресивер_цифровой_эфирный_телевидение_oriel">
         <attvalues>
           <attvalue for="modularity_class" value="314"></attvalue>
@@ -54306,14 +52426,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="3466.0427" y="453.41772"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
-      </node>
-      <node id="1787" label="doc_1787_лампа_светодиодный_экономка_ecol_wa_ve">
-        <attvalues>
-          <attvalue for="modularity_class" value="235"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="8328.449" y="22459.24"></viz:position>
-        <viz:color r="190" g="136" b="157"></viz:color>
       </node>
       <node id="1788" label="doc_1788_ультразвуковой_увлажнитель_воздух_ballu_uhb">
         <attvalues>
@@ -54394,14 +52506,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1229.2102" y="-356.97385"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="1798" label="doc_1798_реноватор_энкор_мфэ_машина_ручной_вибрационный">
-        <attvalues>
-          <attvalue for="modularity_class" value="236"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22291.336" y="1036.0054"></viz:position>
-        <viz:color r="255" g="154" b="86"></viz:color>
       </node>
       <node id="1799" label="doc_1799_пылесос_циклонный_фильтр_redmond_rv">
         <attvalues>
@@ -54683,14 +52787,6 @@
         <viz:position x="-2125.1418" y="-756.28424"></viz:position>
         <viz:color r="30" g="46" b="50"></viz:color>
       </node>
-      <node id="1834" label="doc_1834_магнитола_hyundai_cd_pcd">
-        <attvalues>
-          <attvalue for="modularity_class" value="237"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20984.596" y="-8406.386"></viz:position>
-        <viz:color r="0" g="87" b="157"></viz:color>
-      </node>
       <node id="1835" label="doc_1835_напольный_весы_starwind_электронный_ssp">
         <attvalues>
           <attvalue for="modularity_class" value="283"></attvalue>
@@ -54818,14 +52914,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-399.011" y="-2381.6653"></viz:position>
         <viz:color r="79" g="119" b="249"></viz:color>
-      </node>
-      <node id="1851" label="doc_1851_портативный_колонка_cbaoo_portable_wireless_bluetooth_speaker_stereo_outdoor_speaker_with_bass_and_buit_in_mic_hands_free_for_computer_phones">
-        <attvalues>
-          <attvalue for="modularity_class" value="238"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="6370.004" y="-20896.15"></viz:position>
-        <viz:color r="168" g="184" b="0"></viz:color>
       </node>
       <node id="1852" label="doc_1852_электрогриль_vitek_vt">
         <attvalues>
@@ -55083,14 +53171,6 @@
         <viz:position x="-1308.1318" y="173.77696"></viz:position>
         <viz:color r="255" g="204" b="0"></viz:color>
       </node>
-      <node id="1884" label="doc_1884_бризер_ballu_air_master">
-        <attvalues>
-          <attvalue for="modularity_class" value="239"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="19208.926" y="-20152.332"></viz:position>
-        <viz:color r="65" g="51" b="81"></viz:color>
-      </node>
       <node id="1885" label="doc_1885_лампа_светодиодный_miniso_white_desk_lamp_mah_simple_style_ms_la">
         <attvalues>
           <attvalue for="modularity_class" value="283"></attvalue>
@@ -55194,14 +53274,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="316.20447" y="-2381.0237"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="1898" label="doc_1898_светильник_ночник_aliexpress_star_led_night_light_for_dark_night_children">
-        <attvalues>
-          <attvalue for="modularity_class" value="240"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="12564.36" y="-21158.842"></viz:position>
-        <viz:color r="104" g="204" b="186"></viz:color>
       </node>
       <node id="1899" label="doc_1899_вентилятор_maxwell_настольный_mw_gy">
         <attvalues>
@@ -55467,14 +53539,6 @@
         <viz:position x="1173.9508" y="2170.7964"></viz:position>
         <viz:color r="221" g="72" b="170"></viz:color>
       </node>
-      <node id="1932" label="doc_1932_светильник_ночник_fix_price_звезда">
-        <attvalues>
-          <attvalue for="modularity_class" value="241"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20855.432" y="-4759.664"></viz:position>
-        <viz:color r="196" g="238" b="186"></viz:color>
-      </node>
       <node id="1933" label="doc_1933_ловушка_летать_насекомое_dighealth_лампа_уничтожитель_комар">
         <attvalues>
           <attvalue for="modularity_class" value="319"></attvalue>
@@ -55650,14 +53714,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1713.5087" y="-1122.6089"></viz:position>
         <viz:color r="255" g="56" b="238"></viz:color>
-      </node>
-      <node id="1955" label="doc_1955_увлажнитель_воздух_flarx_fix_price">
-        <attvalues>
-          <attvalue for="modularity_class" value="242"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-3426.0864" y="22322.074"></viz:position>
-        <viz:color r="255" g="144" b="154"></viz:color>
       </node>
       <node id="1956" label="doc_1956_радиоприемник_hyundai_srs">
         <attvalues>
@@ -55851,14 +53907,6 @@
         <viz:position x="1262.3468" y="3485.1914"></viz:position>
         <viz:color r="255" g="160" b="135"></viz:color>
       </node>
-      <node id="1980" label="doc_1980_швейный_машина_singer_starlet">
-        <attvalues>
-          <attvalue for="modularity_class" value="243"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22650.4" y="12578.355"></viz:position>
-        <viz:color r="0" g="182" b="252"></viz:color>
-      </node>
       <node id="1981" label="doc_1981_пылесос_samsung_sc_hb">
         <attvalues>
           <attvalue for="modularity_class" value="281"></attvalue>
@@ -55931,14 +53979,6 @@
         <viz:position x="213.5701" y="-156.22356"></viz:position>
         <viz:color r="178" g="151" b="111"></viz:color>
       </node>
-      <node id="1990" label="doc_1990_радиоприемник_tivdio_fm">
-        <attvalues>
-          <attvalue for="modularity_class" value="244"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="16966.22" y="-21388.701"></viz:position>
-        <viz:color r="103" g="198" b="0"></viz:color>
-      </node>
       <node id="1991" label="doc_1991_электровафельница_rolsen_mp">
         <attvalues>
           <attvalue for="modularity_class" value="292"></attvalue>
@@ -55970,14 +54010,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1314.9153" y="-1458.1013"></viz:position>
         <viz:color r="255" g="56" b="238"></viz:color>
-      </node>
-      <node id="1995" label="doc_1995_швейный_машина_astralux_gold_line_ii">
-        <attvalues>
-          <attvalue for="modularity_class" value="245"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18966.58" y="-19731.809"></viz:position>
-        <viz:color r="255" g="130" b="43"></viz:color>
       </node>
       <node id="1996" label="doc_1996_увлажнитель_воздух_polaris_ультразвуковой_puh">
         <attvalues>
@@ -56411,14 +54443,6 @@
         <viz:position x="-627.88306" y="725.50543"></viz:position>
         <viz:color r="86" g="160" b="0"></viz:color>
       </node>
-      <node id="7050" label="doc_7050_пылесос_black_decker_pd_lp">
-        <attvalues>
-          <attvalue for="modularity_class" value="246"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-12623.871" y="22641.547"></viz:position>
-        <viz:color r="255" g="62" b="108"></viz:color>
-      </node>
       <node id="7051" label="doc_7051_пылесос_hoover_atn_athen">
         <attvalues>
           <attvalue for="modularity_class" value="271"></attvalue>
@@ -56434,14 +54458,6 @@
         <viz:size value="12.297436"></viz:size>
         <viz:position x="-1006.6005" y="-803.1404"></viz:position>
         <viz:color r="216" g="217" b="255"></viz:color>
-      </node>
-      <node id="7053" label="doc_7053_погружной_блендер_ves">
-        <attvalues>
-          <attvalue for="modularity_class" value="247"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22293.266" y="-1397.2751"></viz:position>
-        <viz:color r="255" g="162" b="141"></viz:color>
       </node>
       <node id="7054" label="doc_7054_стиральный_машина_kuppersbusch_wa">
         <attvalues>
@@ -56626,14 +54642,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="690.46686" y="639.6454"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="7077" label="doc_7077_щипцы_philips_bhh_stylecare">
-        <attvalues>
-          <attvalue for="modularity_class" value="248"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-11548.878" y="-21122.883"></viz:position>
-        <viz:color r="255" g="168" b="255"></viz:color>
       </node>
       <node id="7078" label="doc_7078_кофемашина_siemens_ti_rw_eq">
         <attvalues>
@@ -56882,14 +54890,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1266.096" y="-1177.0197"></viz:position>
         <viz:color r="0" g="249" b="0"></viz:color>
-      </node>
-      <node id="7109" label="doc_7109_встраивать_холодильник_liebherr_ecbn">
-        <attvalues>
-          <attvalue for="modularity_class" value="249"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="13817.339" y="22698.645"></viz:position>
-        <viz:color r="0" g="77" b="73"></viz:color>
       </node>
       <node id="7110" label="doc_7110_телевизор_kivi_fb_br">
         <attvalues>
@@ -57179,14 +55179,6 @@
         <viz:position x="1099.9689" y="1683.1681"></viz:position>
         <viz:color r="179" g="239" b="160"></viz:color>
       </node>
-      <node id="7146" label="doc_7146_пылесос_electrolux_eer_allrgy">
-        <attvalues>
-          <attvalue for="modularity_class" value="250"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="7144.3877" y="22423.344"></viz:position>
-        <viz:color r="97" g="6" b="40"></viz:color>
-      </node>
       <node id="7147" label="doc_7147_сплит_система_haier_as_ns_era_bs_era">
         <attvalues>
           <attvalue for="modularity_class" value="278"></attvalue>
@@ -57258,14 +55250,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-787.92224" y="2993.6628"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
-      </node>
-      <node id="7156" label="doc_7156_пылесос_miele_sgma_comfort">
-        <attvalues>
-          <attvalue for="modularity_class" value="251"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="3040.2039" y="-20821.979"></viz:position>
-        <viz:color r="0" g="184" b="0"></viz:color>
       </node>
       <node id="7157" label="doc_7157_щипцы_philips_bhs_straightcare">
         <attvalues>
@@ -57379,14 +55363,6 @@
         <viz:position x="1096.962" y="-2593.8862"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
       </node>
-      <node id="7171" label="doc_7171_газовый_котел_leberg_flamme_asd">
-        <attvalues>
-          <attvalue for="modularity_class" value="252"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-8778.878" y="-20994.494"></viz:position>
-        <viz:color r="161" g="218" b="255"></viz:color>
-      </node>
       <node id="7172" label="doc_7172_каминный_вытяжка_maunfeld_blast_белый">
         <attvalues>
           <attvalue for="modularity_class" value="290"></attvalue>
@@ -57491,14 +55467,6 @@
         <viz:position x="3220.1667" y="545.86505"></viz:position>
         <viz:color r="0" g="252" b="255"></viz:color>
       </node>
-      <node id="7185" label="doc_7185_сабвуфер_ceratec_vita_ii">
-        <attvalues>
-          <attvalue for="modularity_class" value="253"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-10744.872" y="22558.875"></viz:position>
-        <viz:color r="188" g="0" b="85"></viz:color>
-      </node>
       <node id="7186" label="doc_7186_кофемашина_krups_kp_lumio">
         <attvalues>
           <attvalue for="modularity_class" value="318"></attvalue>
@@ -57579,14 +55547,6 @@
         <viz:position x="2077.1338" y="-1166.9816"></viz:position>
         <viz:color r="48" g="146" b="169"></viz:color>
       </node>
-      <node id="7196" label="doc_7196_духовой_шкаф_fornelli_fea_infinita">
-        <attvalues>
-          <attvalue for="modularity_class" value="254"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-1387.5928" y="-21912.625"></viz:position>
-        <viz:color r="255" g="179" b="173"></viz:color>
-      </node>
       <node id="7197" label="doc_7197_варочный_панель_samsung_ccmn">
         <attvalues>
           <attvalue for="modularity_class" value="271"></attvalue>
@@ -57610,14 +55570,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-817.8806" y="2756.733"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
-      </node>
-      <node id="7200" label="doc_7200_погружной_блендер_stadler_form_blender_one_sfb">
-        <attvalues>
-          <attvalue for="modularity_class" value="255"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-20866.543" y="-4989.407"></viz:position>
-        <viz:color r="255" g="138" b="202"></viz:color>
       </node>
       <node id="7201" label="doc_7201_каминный_вытяжка_kronasteel_alva_white">
         <attvalues>
@@ -57915,14 +55867,6 @@
         <viz:position x="-1589.8268" y="-2267.6072"></viz:position>
         <viz:color r="130" g="51" b="75"></viz:color>
       </node>
-      <node id="7238" label="doc_7238_чайник_homestar_hs">
-        <attvalues>
-          <attvalue for="modularity_class" value="256"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18865.17" y="20120.768"></viz:position>
-        <viz:color r="153" g="245" b="65"></viz:color>
-      </node>
       <node id="7239" label="doc_7239_телевизор_tcl_cus">
         <attvalues>
           <attvalue for="modularity_class" value="312"></attvalue>
@@ -57970,14 +55914,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="2430.889" y="426.288"></viz:position>
         <viz:color r="239" g="0" b="97"></viz:color>
-      </node>
-      <node id="7245" label="doc_7245_погружной_блендер_kelli_kl">
-        <attvalues>
-          <attvalue for="modularity_class" value="257"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="8911.162" y="-20992.217"></viz:position>
-        <viz:color r="188" g="184" b="73"></viz:color>
       </node>
       <node id="7246" label="doc_7246_утюг_mie">
         <attvalues>
@@ -58779,14 +56715,6 @@
         <viz:position x="-484.85434" y="-93.457634"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="7346" label="doc_7346_каминный_вытяжка_grand_boston_bk">
-        <attvalues>
-          <attvalue for="modularity_class" value="258"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-12475.985" y="22635.508"></viz:position>
-        <viz:color r="194" g="186" b="233"></viz:color>
-      </node>
       <node id="7347" label="doc_7347_утюг_braun_si_texstyle">
         <attvalues>
           <attvalue for="modularity_class" value="303"></attvalue>
@@ -58906,14 +56834,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="1209.8837" y="-2566.8882"></viz:position>
         <viz:color r="255" g="174" b="75"></viz:color>
-      </node>
-      <node id="7362" label="doc_7362_варочный_панель_weissgauff_hif_bfz">
-        <attvalues>
-          <attvalue for="modularity_class" value="259"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-3624.89" y="-20828.404"></viz:position>
-        <viz:color r="255" g="167" b="130"></viz:color>
       </node>
       <node id="7363" label="doc_7363_сплит_система_hitachi_ras_lh_rac_lh">
         <attvalues>
@@ -59123,14 +57043,6 @@
         <viz:position x="-806.5816" y="2730.6196"></viz:position>
         <viz:color r="169" g="16" b="23"></viz:color>
       </node>
-      <node id="7389" label="doc_7389_стационарный_блендер_electrolux_esb">
-        <attvalues>
-          <attvalue for="modularity_class" value="260"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="7603.88" y="-20937.336"></viz:position>
-        <viz:color r="106" g="255" b="19"></viz:color>
-      </node>
       <node id="7390" label="doc_7390_посудомоечный_машина_hotpoint_ariston_hsfe">
         <attvalues>
           <attvalue for="modularity_class" value="270"></attvalue>
@@ -59234,14 +57146,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1113.795" y="1486.374"></viz:position>
         <viz:color r="255" g="185" b="255"></viz:color>
-      </node>
-      <node id="7403" label="doc_7403_проточный_водонагреватель_innovita_primo_ng">
-        <attvalues>
-          <attvalue for="modularity_class" value="261"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22566.248" y="10817.086"></viz:position>
-        <viz:color r="244" g="227" b="0"></viz:color>
       </node>
       <node id="7404" label="doc_7404_кофеварка_рожковый_polaris_pcm_adore_crema">
         <attvalues>
@@ -59474,14 +57378,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-3389.6064" y="126.88229"></viz:position>
         <viz:color r="0" g="255" b="151"></viz:color>
-      </node>
-      <node id="7433" label="doc_7433_стационарный_блендер_smeg_blf">
-        <attvalues>
-          <attvalue for="modularity_class" value="262"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="10310.29" y="22541.17"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
       </node>
       <node id="7434" label="doc_7434_сетевой_аудиоплеер_cambridge_audio_cxn">
         <attvalues>
@@ -59787,14 +57683,6 @@
         <viz:position x="139.40498" y="1065.1138"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
       </node>
-      <node id="7472" label="doc_7472_моноблок_general_climate_gcp_erc">
-        <attvalues>
-          <attvalue for="modularity_class" value="263"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-5335.4795" y="-20874.607"></viz:position>
-        <viz:color r="245" g="98" b="107"></viz:color>
-      </node>
       <node id="7473" label="doc_7473_стационарный_блендер_gemlux_gl_psb_pl">
         <attvalues>
           <attvalue for="modularity_class" value="285"></attvalue>
@@ -59818,14 +57706,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-66.21392" y="926.6043"></viz:position>
         <viz:color r="206" g="233" b="0"></viz:color>
-      </node>
-      <node id="7476" label="doc_7476_духовой_шкаф_korting_okb_crsi">
-        <attvalues>
-          <attvalue for="modularity_class" value="264"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-6185.6304" y="22394.867"></viz:position>
-        <viz:color r="130" g="225" b="255"></viz:color>
       </node>
       <node id="7477" label="doc_7477_сплит_система_cooper_hunter_ch_ftxla">
         <attvalues>
@@ -59882,14 +57762,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="320.56937" y="-828.5661"></viz:position>
         <viz:color r="53" g="230" b="255"></viz:color>
-      </node>
-      <node id="7484" label="doc_7484_моноблок_electrolux_eacm_es_fi">
-        <attvalues>
-          <attvalue for="modularity_class" value="265"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21139.348" y="12041.191"></viz:position>
-        <viz:color r="175" g="246" b="0"></viz:color>
       </node>
       <node id="7485" label="doc_7485_музыкальный_центр_sony_mhc_dw">
         <attvalues>
@@ -60115,14 +57987,6 @@
         <viz:position x="2179.8752" y="1014.7894"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
       </node>
-      <node id="7513" label="doc_7513_плита_iplate_yz_qs">
-        <attvalues>
-          <attvalue for="modularity_class" value="266"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18875.773" y="22165.525"></viz:position>
-        <viz:color r="255" g="111" b="31"></viz:color>
-      </node>
       <node id="7514" label="doc_7514_комплект_акустика_bose_acoustimass">
         <attvalues>
           <attvalue for="modularity_class" value="294"></attvalue>
@@ -60178,14 +58042,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="-1235.8534" y="-3121.3203"></viz:position>
         <viz:color r="255" g="0" b="75"></viz:color>
-      </node>
-      <node id="7521" label="doc_7521_кофеварка_promo_pr_cm">
-        <attvalues>
-          <attvalue for="modularity_class" value="267"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="18275.32" y="-20954.701"></viz:position>
-        <viz:color r="255" g="85" b="5"></viz:color>
       </node>
       <node id="7522" label="doc_7522_сплит_система_toshiba_ras_skvp_ras_savp">
         <attvalues>
@@ -60643,14 +58499,6 @@
         <viz:position x="-2314.5425" y="-1977.5914"></viz:position>
         <viz:color r="0" g="122" b="134"></viz:color>
       </node>
-      <node id="7579" label="doc_7579_варочный_панель_electrolux_ime_kf">
-        <attvalues>
-          <attvalue for="modularity_class" value="268"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="22532.367" y="9771.935"></viz:position>
-        <viz:color r="255" g="67" b="118"></viz:color>
-      </node>
       <node id="7580" label="doc_7580_пылесос_electrolux_zuooriginr">
         <attvalues>
           <attvalue for="modularity_class" value="273"></attvalue>
@@ -60714,14 +58562,6 @@
         <viz:size value="12.148718"></viz:size>
         <viz:position x="778.0936" y="630.5372"></viz:position>
         <viz:color r="255" g="116" b="232"></viz:color>
-      </node>
-      <node id="7588" label="doc_7588_пылесос_electrolux_ufflex">
-        <attvalues>
-          <attvalue for="modularity_class" value="269"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-21244.047" y="14211.299"></viz:position>
-        <viz:color r="0" g="50" b="55"></viz:color>
       </node>
       <node id="7589" label="doc_7589_духовой_шкаф_vestfrost_vfvtt_omg">
         <attvalues>
