@@ -58955,7 +58955,7 @@
         <viz:position x="-359.0623" y="12.74645"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="7638" label="Машинки для удаления катышек LEBEN">
+      <node id="7638" label="Кофемашины 3">
         <attvalues>
           <attvalue for="modularity_class" value="318"></attvalue>
         </attvalues>
