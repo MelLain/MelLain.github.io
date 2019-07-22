@@ -58883,7 +58883,7 @@
         <viz:position x="2078.8103" y="861.735"></viz:position>
         <viz:color r="0" g="165" b="88"></viz:color>
       </node>
-      <node id="7629" label="Кофемашины 2">
+      <node id="7629" label="Вилеоигры / Кофемашины 2">
         <attvalues>
           <attvalue for="modularity_class" value="309"></attvalue>
         </attvalues>
